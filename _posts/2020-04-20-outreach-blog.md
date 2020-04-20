@@ -9,4 +9,9 @@ Afterwards I wrote a recap on our shared blogging platform, have a look!
 
 [The next generation: Organizing an outreach event](https://4photonblog.wordpress.com/2019/03/19/the-next-generation-organizing-an-outreach-event/)
 
-![Learning about quantum cryptohraphy](https://www.jramueller.com/img/Outreach_2.jpg "Learning about quantum cryptohraphy")
+<br/>
+<figure>
+  <img src="https://www.jramueller.com/img/Outreach_2.jpg" alt="Learning about quantum cryptohraphy" class="center"/>
+  <figcaption>Learning about quantum cryptohraphy</figcaption>
+</figure>
+
