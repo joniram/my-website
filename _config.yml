@@ -1,7 +1,7 @@
 title: Jonathan R. A. Mülller
-author: Jonathan R. A. Mülller
-name: 
-email: jonathan.r.mueller@domain.com
+author: 
+  name: Jonathan R. A. Mülller
+  email: jonathan.r.mueller@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   quantum information, optics, semiconductor physics, and more.
 
