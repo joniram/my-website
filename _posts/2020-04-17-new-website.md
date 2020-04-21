@@ -10,7 +10,7 @@ For me there are two main driving factors behind this:
 
 * Learning more about the involved technologies. There are many options when it comes to designing and hosting a website. I didn't want an entirely off-the-shelf solution like Wordpress. So for now I've settled on using Github Pages, combined with Jekyll. The process is still fairly streamlined thanks to the many helpful resources online, but I have already learned a lot while setting this up.
 
-* Having my own presence on the web. A major part of research is about disseminating the results. I think it's always a pleasant surprise to find a website with some extra context on other peoples results and how their research fits within their overall interests. Thus I'm hoping to provide some similar insights here.
+* Having my own presence on the web. A major part of research is about disseminating the results. I think it's always a pleasant surprise to find a website with some extra context on other people's results and how their research fits within their overall interests. Thus I'm hoping to provide some similar insights here.
 
 
 So here we are! 
