@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 ## Education
-#### **Toshiba Europe, Cambridge Research Laboratory / University of Sheffield** <br/>(October 2017 – present)
+#### Toshiba Europe, Cambridge Research Laboratory / University of Sheffield <br/>(October 2017 – present)
 **PhD student in Physics**  
 Quantum information group, lead by Dr. Andrew Shields
 
