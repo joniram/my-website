@@ -44,7 +44,7 @@ International scholarship supporting talented researchers
 
 ---
 ## Volunteering
-#### The Royal Institution of Great Britain, London (October 2019)
+#### The Royal Institution of Great Britain, London (November 2019)
 Conception and presentation of an interactive stand about 'Quantum Teleportation' for a [public outreach event](https://www.rigb.org/whats-on/events-2019/november/public-quantum-in-the-city)
 
 #### University of Würzburg (February 2019)
