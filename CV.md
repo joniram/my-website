@@ -21,6 +21,7 @@ Courses: Digital IC Engineering (A+), Investment Management (A+), Derivatives Tr
 #### Technical University of Munich (Oct 2011 – Apr 2015)
 **BSc in Physics** — Passed with merit  
 Quantum  Information Processing group, lead by Prof. Dr. Rudolf	Gross
+Thesis: [3D Cavities for Circuit Quantum Electrodynamics](https://www.wmi.badw.de/publications/theses/Mueller,Jonathan%20Bachelor%20Thesis%202014.pdf)
 
 #### University of Würzburg (Oct 2009 – Jul 2010)
 [Early Study Programme](https://ifm.mathematik.uni-wuerzburg.de/fruehstudium/) for high school students in Maths
