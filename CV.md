@@ -12,15 +12,17 @@ Quantum information group, lead by Dr. Andrew Shields
 
 #### Technical University of Munich (Oct 2014 – Sep 2017)
 **MSc in Condensed Matter Physics** — Passed with distinction  
-Semiconductor Nanostructures and Quantum Systems group, lead by Prof. Dr. Jonathan Finley
+Semiconductor Nanostructures and Quantum Systems group, lead by Prof. Dr. Jonathan Finley  
+Thesis: Light-Matter Interaction Beyond the Mollow Triplet (available on request)
 
 #### National Taiwan University (Sep 2015 – Jan 2016)
 Semester abroad — GPA 4.12/4.3  
-Courses: Digital IC Engineering (A+), Investment Management (A+), Derivatives Trading (A), among others
+Courses: Digital IC Engineering (A+), Investment Management (A+), Derivatives Trading (A), among others  
+Term Project: [The Conditional Capital Asset Pricing Model and the MDAX](https://www.jramueller.com/files/JonathanMueller_Conditional_CAPM.pdf)
 
 #### Technical University of Munich (Oct 2011 – Apr 2015)
 **BSc in Physics** — Passed with merit  
-Quantum  Information Processing group, lead by Prof. Dr. Rudolf	Gross
+Quantum  Information Processing group, lead by Prof. Dr. Rudolf	Gross  
 Thesis: [3D Cavities for Circuit Quantum Electrodynamics](https://www.wmi.badw.de/publications/theses/Mueller,Jonathan%20Bachelor%20Thesis%202014.pdf)
 
 #### University of Würzburg (Oct 2009 – Jul 2010)
