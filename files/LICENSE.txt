@@ -1,0 +1,4 @@
+All files in this folder:
+
+Copyright (c) 2020-present Jonathan R. A. Müller
+All rights reserved
