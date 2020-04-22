@@ -41,7 +41,7 @@ Performing electron microscopy, optical lithography, etching and development, et
 **Working student**, supporting the operation and maintenance of low temperature and microwave equipment for research on superconducting quantum bits.
 
 ---
-## Awards
+## Scholarships
 #### Marie Skłodowska-Curie Actions Scholarship, European Commision <br/>(Oct 2017 – Sep 2020)
 International scholarship supporting talented researchers
 
