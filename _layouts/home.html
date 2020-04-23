@@ -32,7 +32,7 @@ layout: default
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {%- if post.excerpt.size > post.content.size-%}
+          {%- if post.excerpt.size < post.content.size-%}
             {%- comment -%} remove first and last <p> and </p> tags, to add inline [...]{%- endcomment -%}
             {%- assign size = post.excerpt | size | minus: 9 -%}
             <p>{{ post.excerpt | slice: 3, size }} [...]</p>
