@@ -32,7 +32,7 @@ layout: default
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt | rstrip }} ...
+        <p>{{ post.excerpt | slice: 3, -4  }} ...</p> {% comment %} remove first and last <p> and </p> tags from excerpt{% endcomment %}
         {%- endif -%}
       </li>
       {%- endfor -%}
