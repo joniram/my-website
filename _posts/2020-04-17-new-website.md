@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 Welcome to my new website, launched today. 
 
 Since all of the UK is stuck at home during lockdown, it's finally time to work on my own website. 
-There are many reasons to have one. For me the two main factors are these: 
+There are many reasons to have one, for me the two main factors are these: 
 <!--more-->
 * Learning more about the involved technologies. There are many options when it comes to designing and hosting a website. I didn't want an entirely off-the-shelf solution like Wordpress. So for now I've settled on using Github Pages, combined with Jekyll. The process is still fairly streamlined thanks to the many helpful resources online, but I have already learned a lot while setting this up.
 
