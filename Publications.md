@@ -22,7 +22,7 @@ _Currently in review._ [arXiv preprint arXiv:2006.15778](https://arxiv.org/abs/2
 ## Conference and Workshop Contributions
 
 ‘Active reset of a radiative cascade for superequilibrium entangled photon generation’ (poster),  
-**_Bristol Quantum Information Technologies Workshop_** (online), Bristol, UK  
+**_Bristol Quantum Information Technologies Workshop_** (moved online), Bristol, UK  
 (Apr 2020)
 
 [‘Generation of entangled photon pairs at gigahertz repetition rates via an ultrafast LED’ (talk)](https://spie.org/PW20O/conferencedetails/ultrafast-phenomena-and-nanophotonics#2545685:~:text=Generation%20of%20entangled%20photon%20pairs%20at,Toshiba%20Research%20Europe%20Ltd.%20(United%20Kingdom)),  
@@ -37,7 +37,7 @@ _Currently in review._ [arXiv preprint arXiv:2006.15778](https://arxiv.org/abs/2
 **_2nd 4-Photon Workshop_**, Munich, Germany  
 (Oct 2019)
 
-Electrical generation of entangled light via single droplet epitaxy quantum dot based LEDs’ (poster),  
+‘Electrical generation of entangled light via single droplet epitaxy quantum dot based LEDs’ (poster),  
 **_Quantum devices for non-classical light generation and manipulation_**, Erice, Italy  
 (Oct 2019)
 
@@ -55,5 +55,5 @@ Würzburg, Germany
 (Feb 2018)
 
 ‘Non-linear two-photon resonance fluorescence of a single artificial atom’ (talk),  
-**_DPG-Frühjahrstagung, Semiconductor Physics Division_**, Dresden, Germany  
+**_DPG Spring Meeting, Semiconductor Physics Division_**, Dresden, Germany  
 (Mar 2017)
