@@ -55,5 +55,5 @@ University of Würzburg, Germany
 (Feb 2018)
 
 ‘Non-linear two-photon resonance fluorescence of a single artificial atom’ (talk),  
-**_DPG-Frühjahrstagung_**, University of Dresden, Germany  
+**_DPG-Frühjahrstagung, Semiconductor Physics Division_**, University of Dresden, Germany  
 (Mar 2017)

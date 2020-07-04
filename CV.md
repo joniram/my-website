@@ -3,7 +3,6 @@ layout: page
 title: Curriculum vitae
 permalink: /cv/
 ---
-
 ## Education
 #### Toshiba Europe, Cambridge Research Laboratory / University of Sheffield <br/>(Oct 2017 – present)
 **PhD student in Physics**  
@@ -33,7 +32,7 @@ Thesis: [3D Cavities for Circuit Quantum Electrodynamics](https://www.wmi.badw.d
 #### University of Cambridge (Oct 2017 – present)
 **Visiting Scientist** to the Semiconductor Physics Group, lead by Prof. David Ritchie
 
-Collaboration on the growth of semiconductor heterostructures and device fabrication. 
+Collaboration on the growth of semiconductor heterostructures and device fabrication.
 Designing and evaluating semiconductors for fabrication of electro-optical devices.
 Performing electron microscopy, optical lithography, etching and development, etc.
 
