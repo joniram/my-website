@@ -22,7 +22,7 @@ _Currently in review._ [arXiv preprint arXiv:2006.15778](https://arxiv.org/abs/2
 ## Conference and Workshop Contributions
 
 ‘Active reset of a radiative cascade for superequilibrium entangled photon generation’ (poster),  
-**_Bristol Quantum Information Technologies Workshop_**, University of Bristol (online), UK  
+**_Bristol Quantum Information Technologies Workshop_** (online), Bristol, UK  
 (Apr 2020)
 
 [‘Generation of entangled photon pairs at gigahertz repetition rates via an ultrafast LED’ (talk)](https://spie.org/PW20O/conferencedetails/ultrafast-phenomena-and-nanophotonics#2545685:~:text=Generation%20of%20entangled%20photon%20pairs%20at,Toshiba%20Research%20Europe%20Ltd.%20(United%20Kingdom)),  
@@ -30,7 +30,7 @@ _Currently in review._ [arXiv preprint arXiv:2006.15778](https://arxiv.org/abs/2
 (Feb 2020)
 
 [‘Active reset of a radiative cascade for superequilibrium entangled photon generation’ (poster)](https://sites.google.com/sheffield.ac.uk/nano-photonics-winter-school/abstract?authuser=0#h.p_QQmZLXIo_FAU:~:text=3%20%2D%20Jonathan%20M%C3%BCller%20%2D%20Toshiba,repetition%20rates%20via%20an%20entangled%20LED),  
-**_Nanophotonics Winter School_**, University of Sheffield, UK  
+**_Nanophotonics Winter School_**, Sheffield, UK  
 (Jan 2020)
 
 ‘Towards a quantum relay based on droplet epitaxy quantum dots’ (talk),  
@@ -43,17 +43,17 @@ Electrical generation of entangled light via single droplet epitaxy quantum dot 
 
 ‘Quantum optical properties of single droplet epitaxy quantum dots’ (poster),  
 **_Winter school on quantum dots: from growth to fundamental properties_**,  
-University of Würzburg, Germany  
+Würzburg, Germany  
 (Feb 2019)
 
 ‘Towards a quantum relay based on droplet epitaxy quantum dots’ (talk),  
-**_1st 4-Photon Workshop_**, Eindhoven University of Technology, Netherlands  
+**_1st 4-Photon Workshop_**, Eindhoven, Netherlands  
 (Sep 2018)
 
 ‘Quantum optical properties of single droplet epitaxy quantum dots’ (poster),  
-**_School on Introduction to Quantum Information_**, University of Basel, Switzerland  
+**_School on Introduction to Quantum Information_**, Basel, Switzerland  
 (Feb 2018)
 
 ‘Non-linear two-photon resonance fluorescence of a single artificial atom’ (talk),  
-**_DPG-Frühjahrstagung, Semiconductor Physics Division_**, University of Dresden, Germany  
+**_DPG-Frühjahrstagung, Semiconductor Physics Division_**, Dresden, Germany  
 (Mar 2017)
