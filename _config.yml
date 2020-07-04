@@ -1,5 +1,5 @@
 title: Jonathan R. A. Müller
-author: 
+author:
   name: Jonathan R. A. Müller
   email: "jonathan.r.a.mueller@gmail.com"
 description: > # this means to ignore newlines until "show_excerpts:"
@@ -49,6 +49,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - index.md
+ - Publications.md
  - CV.md
 
 # Build settings
