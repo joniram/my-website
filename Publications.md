@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-[Google Scholar Page](https://scholar.google.com/citations?user=OBSTfakAAAAJ)
+[Google Scholar page](https://scholar.google.com/citations?user=OBSTfakAAAAJ)
 
 ##### **Active reset of a radiative cascade for superequilibrium entangled photon generation**
 **Müller, Jonathan RA**; Stevenson, R Mark; Skiba-Szymanska, Joanna; Shooter, Ginny; Huwer, Jan; Farrer, Ian; Ritchie, David A; Shields, Andrew J;  
