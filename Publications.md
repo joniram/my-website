@@ -8,15 +8,15 @@ permalink: /publications/
 
 ##### **Active reset of a radiative cascade for superequilibrium entangled photon generation**
 **Müller, Jonathan RA**; Stevenson, R Mark; Skiba-Szymanska, Joanna; Shooter, Ginny; Huwer, Jan; Farrer, Ian; Ritchie, David A; Shields, Andrew J;  
-_Currently in review._ [arXiv preprint arXiv:2001.06251](https://arxiv.org/abs/2001.06251)
+_Currently in review._ [arXiv preprint arXiv:2001.06251](https://arxiv.org/abs/2001.06251) (2020)
 
 ##### **1GHz clocked distribution of electrically generated entangled photon pairs**
 Shooter, Ginny; Xiang, Ziheng; **Müller, Jonathan RA**; Skiba-Szymanska, Joanna; Huwer, Jan; Griffiths, Jonathan; Mitchell, Thomas; Anderson, Matthew; Müller, Tina; Krysa, Andrey B;  
-_Currently in review._ [arXiv preprint arXiv:2004.14880](https://arxiv.org/abs/2004.14880)
+_Currently in review._ [arXiv preprint arXiv:2004.14880](https://arxiv.org/abs/2004.14880) (2020)
 
 ##### **High resolution spectroscopy of a quantum dot driven bichromatically by two strong fields**
 Gustin, Chris; Hanschke, Lukas; Boos, Katarina; **Müller, Jonathan RA**; Kremser, Malte; Finley, Jonathan J; Hughes, Stephen; Müller, Kai;  
-_Currently in review._ [arXiv preprint arXiv:2006.15778](https://arxiv.org/abs/2006.15778)
+_Currently in review._ [arXiv preprint arXiv:2006.15778](https://arxiv.org/abs/2006.15778) (2020)
 
 
 ## Conference and Workshop Contributions
