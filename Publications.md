@@ -7,19 +7,25 @@ permalink: /publications/
 [Google Scholar page](https://scholar.google.com/citations?user=OBSTfakAAAAJ)
 
 ##### **Active reset of a radiative cascade for superequilibrium entangled photon generation**
-**Müller, Jonathan RA**; Stevenson, R Mark; Skiba-Szymanska, Joanna; Shooter, Ginny; Huwer, Jan; Farrer, Ian; Ritchie, David A; Shields, Andrew J;  
-_Currently in review._ [arXiv preprint arXiv:2001.06251](https://arxiv.org/abs/2001.06251) (2020)
+**Jonathan&nbsp;R.&nbsp;A.&nbsp;Müller**; R.&nbsp;Mark&nbsp;Stevenson, Joanna&nbsp;Skiba-Szymanska, Ginny&nbsp;Shooter, Jan&nbsp;Huwer, Ian&nbsp;Farrer, David&nbsp;A.&nbsp;Ritchie, and Andrew&nbsp;J.&nbsp;Shields  
+<!--**Müller, Jonathan RA**;  Stevenson, R Mark; Skiba-Szymanska, Joanna; Shooter, Ginny; Huwer, Jan; Farrer, Ian; Ritchie, David A; Shields, Andrew J;   -->
+_Currently in review._ [arXiv:2001.06251](https://arxiv.org/abs/2001.06251) (2020)
 
 ##### **1GHz clocked distribution of electrically generated entangled photon pairs**
-Shooter, Ginny; Xiang, Ziheng; **Müller, Jonathan RA**; Skiba-Szymanska, Joanna; Huwer, Jan; Griffiths, Jonathan; Mitchell, Thomas; Anderson, Matthew; Müller, Tina; Krysa, Andrey B; Stevenson, R Mark; Heffernan, Jon; Ritchie, David A; Shields, Andrew J;
-_Currently in review._ [arXiv preprint arXiv:2004.14880](https://arxiv.org/abs/2004.14880) (2020)
+Ginny&nbsp;Shooter, Ziheng&nbsp;Xiang, **Jonathan&nbsp;R.&nbsp;A.&nbsp;Müller**, Joanna&nbsp;Skiba-Szymanska, Jan&nbsp;Huwer, Jonathan&nbsp;Griffiths, Thomas&nbsp;Mitchell, Matthew&nbsp;Anderson, Tina&nbsp;Müller, Andrey&nbsp;B.&nbsp;Krysa, R.&nbsp;Mark&nbsp;Stevenson, Jon&nbsp;Heffernan, David&nbsp;A.&nbsp;Ritchie, and Andrew&nbsp;J.&nbsp;Shields  
+<!-- Shooter, Ginny; Xiang, Ziheng; **Müller, Jonathan RA**; Skiba-Szymanska, Joanna; Huwer, Jan; Griffiths, Jonathan; Mitchell, Thomas; Anderson, Matthew; Müller, Tina; Krysa, Andrey B; Stevenson, R Mark; Heffernan, Jon; Ritchie, David A; Shields, Andrew J; -->
+_Currently in review._ [arXiv:2004.14880](https://arxiv.org/abs/2004.14880) (2020)
 
 ##### **High resolution spectroscopy of a quantum dot driven bichromatically by two strong fields**
-Gustin, Chris; Hanschke, Lukas; Boos, Katarina; **Müller, Jonathan RA**; Kremser, Malte; Finley, Jonathan J; Hughes, Stephen; Müller, Kai;  
-_Currently in review._ [arXiv preprint arXiv:2006.15778](https://arxiv.org/abs/2006.15778) (2020)
+Chris&nbsp;Gustin, Lukas&nbsp;Hanschke, Katarina&nbsp;Boos, **Jonathan&nbsp;R.&nbsp;A.&nbsp;Müller**, Malte&nbsp;Kremser, Jonathan&nbsp;J.&nbsp;Finley, Stephen&nbsp;Hughes, and Kai&nbsp;Müller  
+<!-- Gustin, Chris; Hanschke, Lukas; Boos, Katarina; **Müller, Jonathan RA**; Kremser, Malte; Finley, Jonathan J; Hughes, Stephen; Müller, Kai;   -->
+_Currently in review._ [arXiv:2006.15778](https://arxiv.org/abs/2006.15778) (2020)
 
 
 ## Conference and Workshop Presentations
+‘Gigahertz-clocked active reset of an entangled LED’ (talk),  
+**_3rd 4-Photon Workshop_** (moved online), Milan, Italy  
+(Jun 2020)
 
 ‘Active reset of a radiative cascade for superequilibrium entangled photon generation’ (poster),  
 **_Bristol Quantum Information Technologies Workshop_** (moved online), Bristol, UK  
