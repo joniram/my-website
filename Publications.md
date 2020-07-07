@@ -43,7 +43,7 @@ _Currently in review._ [arXiv:2006.15778](https://arxiv.org/abs/2006.15778) (202
 **_2nd 4-Photon Workshop_**, Munich, Germany  
 (Oct 2019)
 
-Electrical generation of entangled light via single droplet epitaxy quantum dot based LEDs’ (poster),  
+‘Electrical generation of entangled light via single droplet epitaxy quantum dot based LEDs’ (poster),  
 **_Quantum devices for non-classical light generation and manipulation_**, Erice, Italy  
 (Oct 2019)
 
@@ -61,5 +61,5 @@ Würzburg, Germany
 (Feb 2018)
 
 ‘Non-linear two-photon resonance fluorescence of a single artificial atom’ (talk),  
-**_DPG-Frühjahrstagung, Semiconductor Physics Division_**, Dresden, Germany  
+**_DPG Spring Meeting, Semiconductor Physics Division_**, Dresden, Germany  
 (Mar 2017)
