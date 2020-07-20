@@ -5,3 +5,19 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+@media only screen and (max-width:480px){
+  img{
+    float: none;
+    display: block	;
+    margin:0 auto !important;
+    margin-bottom: 10px !important;
+  }
+  .switch-order {
+    display: table;
+    width: 100%;
+  }
+  .switch-order div:first-child {
+    display: table-footer-group;
+  }
+}
