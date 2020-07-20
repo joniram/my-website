@@ -8,7 +8,6 @@
 layout: home
 title: "About"
 ---
-<!-- # About -->
 <div class="switch-order">
 <div>
 <img src="/img/portrait.png" align="right" alt="Portrait photo" style="margin: 20px 0px 20px 30px;width:200px;" />
@@ -19,8 +18,9 @@ title: "About"
 </div>
 <!-- # About -->
 <div>
+<p>
 I'm a PhD student in the Cambridge Research Laboratory of Toshiba Europe. I also hold an MSc and a BSc from TU Munich. My research is focused on developing quantum dot based LEDs suitable for quantum information applications, in particular for quantum communication.
-<!-- </div> -->
+</p>
 </div>
 
 
