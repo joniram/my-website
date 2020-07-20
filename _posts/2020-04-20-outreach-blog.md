@@ -11,7 +11,6 @@ Afterwards I wrote a recap on our shared blogging platform, have a look!
 
 <br/>
 <figure>
-  <img src="https://www.jramueller.com/img/Outreach_2.jpg" alt="Learning about quantum cryptohraphy" class="center"/>
+  <img src="/img/Outreach_2.jpg" alt="Learning about quantum cryptohraphy" class="center"/>
   <figcaption>Learning about quantum cryptography</figcaption>
 </figure>
-
