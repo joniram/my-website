@@ -12,7 +12,6 @@ title: "About"
 <div class="switch-order">
 <div>
 <img src="/img/portrait.png" align="right" alt="Portrait photo" style="margin: 20px 0px 20px 30px;width:200px;" />
-<!-- <img src="/img/portrait.png" align="right" alt="Portrait photo" style="margin: 30px auto;width:200px;" /> -->
 </div>
 <div>
 <h1>About</h1>
