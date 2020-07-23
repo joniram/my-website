@@ -29,7 +29,7 @@ Thesis: [3D Cavities for Circuit Quantum Electrodynamics](https://www.wmi.badw.d
 [Early Study Programme](https://ifm.mathematik.uni-wuerzburg.de/fruehstudium/) for high school students in Maths
 
 ---  
-## Practical Experience
+## Professional Experience
 #### University of Cambridge (Oct 2017 – present)
 **Visiting Scientist** to the Semiconductor Physics Group, lead by Prof. David Ritchie
 
