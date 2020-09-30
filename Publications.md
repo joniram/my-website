@@ -23,6 +23,11 @@ _Currently in review._ [arXiv:2006.15778](https://arxiv.org/abs/2006.15778) (202
 
 
 ## Conference and Workshop Presentations
+‘Active reset of an entangled-LED for superequilibrium entangled photon generation’ (talk),  
+**_International Conference on Solid State Devices and Materials (SSDM)_** (moved online),  
+Toyama, Japan  
+(Sep 2020)
+
 ‘Gigahertz-clocked active reset of an entangled LED’ (talk),  
 **_3rd 4-Photon Workshop_** (moved online), Milan, Italy  
 (Jun 2020)
