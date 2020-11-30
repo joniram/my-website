@@ -1,41 +1,28 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
-
-
 // body, h1, h2, h3, h4, h5, h6,
 // p, blockquote, pre, hr,
 // dl, dd, ol, ul, figure {
 //   margin: 0;
 //   padding: 0;
 // }
-// @media only screen and (max-width:480px){
-//   img{
-//     float: none;
-//     display: block	;
-//     margin:0 auto !important;
-//     margin-bottom: 10px !important;
-//   }
-//   .switch-order {
-//     display: flex;
-//     flex-direction: column;
-//   }
-//   .switch-order div:first-child {
-//     order: 1;
-//   }
+
+// img.nooverflow {
+//   display: inline-block;
+//   // margin-right:10px;
+//   vertical-align: middle;
 // }
 
-// @media only screen and (max-width:480px){
-//   img{
-//     float: none;
-//     display: block	;
-//     margin:0 auto !important;
-//     margin-bottom: 10px !important;
-//   }
-//   .switch-order {
-//     display: table;
-//     width: 100%;
-//   }
-//   .switch-order div:first-child {
-//     display: table-footer-group;
-//   }
-// }
+p.nooverflow {
+  overflow: hidden;
+  // margin-bottom: 0;
+  // vertical-align: middle;
+  /* this is what keep the <p> from wrapping */
+  // display: inline-block;
+  // vertical-align: middle;
+}
+
+.content-holder {
+  display: inline-block;
+  vertical-align: middle;
+}
