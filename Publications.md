@@ -6,15 +6,18 @@ permalink: /publications/
 
 [Google Scholar page](https://scholar.google.com/citations?user=OBSTfakAAAAJ)
 
-##### **Active reset of a radiative cascade for superequilibrium entangled photon generation**
-**Jonathan&nbsp;R.&nbsp;A.&nbsp;Müller**; R.&nbsp;Mark&nbsp;Stevenson, Joanna&nbsp;Skiba-Szymanska, Ginny&nbsp;Shooter, Jan&nbsp;Huwer, Ian&nbsp;Farrer, David&nbsp;A.&nbsp;Ritchie, and Andrew&nbsp;J.&nbsp;Shields  
-<!--**Müller, Jonathan RA**;  Stevenson, R Mark; Skiba-Szymanska, Joanna; Shooter, Ginny; Huwer, Jan; Farrer, Ian; Ritchie, David A; Shields, Andrew J;   -->
-_Currently in review._ [arXiv:2001.06251](https://arxiv.org/abs/2001.06251) (2020)
 
-##### **1GHz clocked distribution of electrically generated entangled photon pairs**
+<!-- ![image](/img/portrait.png){: style="float: left" height="256" width="256"} -->
+
+##### [**Active reset of a radiative cascade for entangled-photon generation beyond the continuous-driving limit**](https://doi.org/10.1103/PhysRevResearch.2.04329)
+**Jonathan&nbsp;R.&nbsp;A.&nbsp;Müller**, R.&nbsp;Mark&nbsp;Stevenson, Joanna&nbsp;Skiba-Szymanska, Ginny&nbsp;Shooter, Jan&nbsp;Huwer, Ian&nbsp;Farrer, David&nbsp;A.&nbsp;Ritchie, and Andrew&nbsp;J.&nbsp;Shields  
+<!--**Müller, Jonathan RA**;  Stevenson, R Mark; Skiba-Szymanska, Joanna; Shooter, Ginny; Huwer, Jan; Farrer, Ian; Ritchie, David A; Shields, Andrew J;   -->
+_Physical Review Research_ **2**, 043292 (2020)
+
+##### [**1GHz clocked distribution of electrically generated entangled photon pairs**](https://doi.org/10.1364/OE.405466)
 Ginny&nbsp;Shooter, Ziheng&nbsp;Xiang, **Jonathan&nbsp;R.&nbsp;A.&nbsp;Müller**, Joanna&nbsp;Skiba-Szymanska, Jan&nbsp;Huwer, Jonathan&nbsp;Griffiths, Thomas&nbsp;Mitchell, Matthew&nbsp;Anderson, Tina&nbsp;Müller, Andrey&nbsp;B.&nbsp;Krysa, R.&nbsp;Mark&nbsp;Stevenson, Jon&nbsp;Heffernan, David&nbsp;A.&nbsp;Ritchie, and Andrew&nbsp;J.&nbsp;Shields  
 <!-- Shooter, Ginny; Xiang, Ziheng; **Müller, Jonathan RA**; Skiba-Szymanska, Joanna; Huwer, Jan; Griffiths, Jonathan; Mitchell, Thomas; Anderson, Matthew; Müller, Tina; Krysa, Andrey B; Stevenson, R Mark; Heffernan, Jon; Ritchie, David A; Shields, Andrew J; -->
-_Currently in review._ [arXiv:2004.14880](https://arxiv.org/abs/2004.14880) (2020)
+_Optics Express_ **28**, 24 (2020)
 
 ##### **High resolution spectroscopy of a quantum dot driven bichromatically by two strong fields**
 Chris&nbsp;Gustin, Lukas&nbsp;Hanschke, Katarina&nbsp;Boos, **Jonathan&nbsp;R.&nbsp;A.&nbsp;Müller**, Malte&nbsp;Kremser, Jonathan&nbsp;J.&nbsp;Finley, Stephen&nbsp;Hughes, and Kai&nbsp;Müller  
