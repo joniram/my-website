@@ -10,7 +10,7 @@ permalink: /publications/
 <img src="/img/Physical Review Research_2_043292_key-image.png" align="left" alt="Portrait photo" style="margin: 20px 20px 00px 00px;width:140px;" />
 </div>
 <div>
-<h5 id="-active-reset-of-a-radiative-cascade-for-entangled-photon-generation-beyond-the-continuous-driving-limit-https-doi-org-10-1103-physrevresearch-2-04329-"><a href="https://doi.org/10.1103/PhysRevResearch.2.04329"><strong>Active reset of a radiative cascade for entangled-photon generation beyond the continuous-driving limit</strong></a></h5>
+<h5 id="-active-reset-of-a-radiative-cascade-for-entangled-photon-generation-beyond-the-continuous-driving-limit-https-doi-org-10-1103-physrevresearch-2-04329-"><a href="https://doi.org/10.1103/PhysRevResearch.2.043292"><strong>Active reset of a radiative cascade for entangled-photon generation beyond the continuous-driving limit</strong></a></h5>
 <p class="nooverflow"><strong>Jonathan&nbsp;R.&nbsp;A.&nbsp;Müller</strong>, R.&nbsp;Mark&nbsp;Stevenson, Joanna&nbsp;Skiba-Szymanska, Ginny&nbsp;Shooter, Jan&nbsp;Huwer, Ian&nbsp;Farrer, David&nbsp;A.&nbsp;Ritchie, and Andrew&nbsp;J.&nbsp;Shields<br><!--**Müller, Jonathan RA**;  Stevenson, R Mark; Skiba-Szymanska, Joanna; Shooter, Ginny; Huwer, Jan; Farrer, Ian; Ritchie, David A; Shields, Andrew J;   -->
 <em>Physical Review Research</em> <strong>2</strong>, 043292 (2020)
 <br clear="left">
