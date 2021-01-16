@@ -9,9 +9,10 @@ In the first paper we made a record-clocked quantum light source, in the second 
 <!--more-->
 
 #### Active reset of a radiative cascade for entangled-photon generation beyond the continuous-driving limit
-Here we're providing a new perspective on cascaded quantum systems for the generation of entangled photons. The basic premise is this: Under the right circumstances, it's better to drive the system only some of the time, instead of all the time. In particular this means that, putting this realisation to use, we are able to generate more entangled photons than any other established driving scheme.
+Here we're providing a new perspective on cascaded quantum systems for the generation of entangled photons. The basic premise is this: Under the right circumstances, it's better to drive the system only some of the time, instead of all the time.
 
-By implementing the quantum system and driving scheme experimentally, we can now claim world's highest clocked entangled-light-emitting diode, driven at 1.15 GHz. We put a lot of effort into engineering this fast-clocked photon source. In doing so, we've also been able to achieve the fastest clocked single-photon LED. In fact, as far as we're aware it's actually world's fastest-clocked single photon source overall - not just from LEDs. This is especially interesting for long-distance quantum communication, as faster clock speeds usually mean higher (quantum-)bit rates.
+By implementing the quantum system and driving scheme experimentally, we can now claim the world's fastest clocked entangled-light-emitting diode, driven at 1.15 GHz. As a result of the new driving scheme, not every clock cycle produces an entangled photon pair---nevertheless, for the given system this produces more photons than any other established driving scheme.
+A lot of effort was put into engineering this fast-clocked photon source. In doing so, we've also been able to achieve the fastest clocked single-photon LED. In fact, as far as we're aware it's actually world's fastest-clocked single photon source overall - not just from LEDs. This is especially interesting for long-distance quantum communication, as faster clock speeds usually mean higher (quantum-)bit rates.
 
 <div>
 <img src="/img/Physical Review Research_2_043292_key-image.png" align="left" alt="Portrait photo" style="margin: 20px 20px 00px 00px;width:140px;" />
@@ -27,7 +28,7 @@ By implementing the quantum system and driving scheme experimentally, we can now
 
 
 #### 1GHz clocked distribution of electrically generated entangled photon pairs
-In this work we implemented the new driving scheme mentioned above in a telecom wavelength (1550nm) entangled-LED. Now the cool thing: We put the entangled photon source on the Cavendish site of Cambridge University, and then sent the photons to the Toshiba lab (a distance of 4.6 km) via standard optical fibre. This is the same optical fibre used for internet access at home. Crucially, we showed that the photons were still entangled when they arrived at Toshiba---even while standard classical traffic was sent down the exact same fibre, at the same time, but at a different wavelength. So in essence: Entangled-LEDs can be integrated into the existing fibre internet infrastructure, making for a potential building block for the quantum internet.
+In this work we implemented the new driving scheme mentioned above in a telecom wavelength (1550nm) entangled-LED. Now the cool thing: We put the entangled photon source on the Cavendish site of Cambridge University, and then sent the photons to the Toshiba lab (a distance of 4.6 km) via standard optical fibre. This is the same optical fibre used for internet access at home. Crucially, we showed that the photons were still entangled when they arrived at Toshiba---even while standard classical traffic was sent down the exact same fibre, at the same time, but at a different wavelength. So in essence: Entangled-LEDs can be integrated into the existing fibre internet infrastructure, making for a potential building block of a future quantum internet.
 
 <div>
 <img src="/img/Optics_Express_28_24_key-image.jpg" align="left" alt="Portrait photo" style="margin: 20px 25px 25px 05px;width:130px;" />
