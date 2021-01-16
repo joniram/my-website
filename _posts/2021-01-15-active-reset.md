@@ -1,13 +1,18 @@
 ---
 layout: post
-title: "Paper published - active reset of a radiative cascade "
+title: "Paper(s) published - Entangled photons at record clock rates"
 categories: misc
 excerpt_separator: <!--more-->
 ---
-A few weeks ago we two of our papers finally made it to publication, check it out!
-
-Thanks to all the co-authors for the hard work! It's been a busy few months - hopefully I'll have more time soon to provide some extra perspective on these publications, especially the first one - I think it's quite an interesting one!
+A few weeks ago we had the joy of almost back-to-back publications of two of our manuscripts. The theme of the papers is all about quantum light, in particular [Quantum Entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement).
+In the first paper we made a record-clocked quantum light source, in the second one we sent entangled light across Cambridge via standard fibre.
 <!--more-->
+
+#### Active reset of a radiative cascade for entangled-photon generation beyond the continuous-driving limit
+Here we're providing a new perspective on cascaded quantum systems for the generation of entangled photons. The basic premise is this: Under the right circumstances, it's better to drive the system only some of the time, instead of all the time. In particular this means that, putting this realisation to use, we are able to generate more entangled photons than any other established driving scheme.
+
+By implementing the quantum system and driving scheme experimentally, we can now claim world's highest clocked entangled-light-emitting diode, driven at 1.15 GHz. We put a lot of effort into engineering this fast-clocked photon source. In doing so, we've also been able to achieve the fastest clocked single-photon LED. In fact, as far as we're aware it's actually world's fastest-clocked single photon source overall - not just from LEDs. This is especially interesting for long-distance quantum communication, as faster clock speeds usually mean higher (quantum-)bit rates.
+
 <div>
 <img src="/img/Physical Review Research_2_043292_key-image.png" align="left" alt="Portrait photo" style="margin: 20px 20px 00px 00px;width:140px;" />
 </div>
@@ -20,11 +25,9 @@ Thanks to all the co-authors for the hard work! It's been a busy few months - ho
 </p>
 </div>
 
-<!-- ##### [**Active reset of a radiative cascade for entangled-photon generation beyond the continuous-driving limit**](https://doi.org/10.1103/PhysRevResearch.2.04329)
-**Jonathan&nbsp;R.&nbsp;A.&nbsp;Müller**, R.&nbsp;Mark&nbsp;Stevenson, Joanna&nbsp;Skiba-Szymanska, Ginny&nbsp;Shooter, Jan&nbsp;Huwer, Ian&nbsp;Farrer, David&nbsp;A.&nbsp;Ritchie, and Andrew&nbsp;J.&nbsp;Shields  
-<!--**Müller, Jonathan RA**;  Stevenson, R Mark; Skiba-Szymanska, Joanna; Shooter, Ginny; Huwer, Jan; Farrer, Ian; Ritchie, David A; Shields, Andrew J;   -->
 
-<!-- _Physical Review Research_ **2**, 043292 (2020) -->
+#### 1GHz clocked distribution of electrically generated entangled photon pairs
+In this work we implemented the new driving scheme mentioned above in a telecom wavelength (1550nm) entangled-LED. Now the cool thing: We put the entangled photon source on the Cavendish site of Cambridge University, and then sent the photons to the Toshiba lab (a distance of 4.6 km) via standard optical fibre. This is the same optical fibre used for internet access at home. Crucially, we showed that the photons were still entangled when they arrived at Toshiba---even while standard classical traffic was sent down the exact same fibre, at the same time, but at a different wavelength. So in essence: Entangled-LEDs can be integrated into the existing fibre internet infrastructure, making for a potential building block for the quantum internet.
 
 <div>
 <img src="/img/Optics_Express_28_24_key-image.jpg" align="left" alt="Portrait photo" style="margin: 20px 25px 25px 05px;width:130px;" />
@@ -38,3 +41,5 @@ Thanks to all the co-authors for the hard work! It's been a busy few months - ho
 <br>
 </p>
 </div>
+
+Thanks to all the co-authors for the hard work! And to any other readers, let me know what you think. I'd be especially interested in seeing active reset applied to other quantum systems.
