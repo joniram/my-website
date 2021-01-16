@@ -4,7 +4,7 @@ title: "Paper(s) published - Entangled photons at record clock rates"
 categories: misc
 excerpt_separator: <!--more-->
 ---
-A few weeks ago we had the joy of almost back-to-back publications of two of our manuscripts. The theme of the papers is all about quantum light, in particular [Quantum Entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement).
+A few weeks ago we had the joy of almost back-to-back publications of two of our manuscripts. The theme of these manuscripts is all about quantum light, in particular [Quantum entanglement](https://en.wikipedia.org/wiki/Quantum_entanglement).
 In the first paper we made a record-clocked quantum light source, in the second one we sent entangled light across Cambridge via standard fibre.
 <!--more-->
 
