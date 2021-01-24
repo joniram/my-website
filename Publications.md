@@ -48,13 +48,13 @@ Ginny&nbsp;Shooter, Ziheng&nbsp;Xiang, **Jonathan&nbsp;R.&nbsp;A.&nbsp;Müller**
 </div>
 <div>
 <h5 id="-high-resolution-spectroscopy-of-a-quantum-dot-driven-bichromatically-by-two-strong-fields-https-arxiv-org-abs-2006-15778-">
-  <a href="https://arxiv.org/abs/2006.15778">
+  <a href="https://doi.org/10.1103/PhysRevResearch.3.013044">
     <strong>High resolution spectroscopy of a quantum dot driven bichromatically by two strong fields</strong>
   </a>
 </h5>
 <p class="nooverflow">
 Chris&nbsp;Gustin, Lukas&nbsp;Hanschke, Katarina&nbsp;Boos, <strong>Jonathan&nbsp;R.&nbsp;A.&nbsp;Müller</strong>, Malte&nbsp;Kremser, Jonathan&nbsp;J.&nbsp;Finley, Stephen&nbsp;Hughes, and Kai&nbsp;Müller<br>
-<em>Currently in review.</em> arXiv:2006.15778 (2020)
+<em>Physical Review Research</em> <strong>3</strong>, 013044 (2021)
 <br clear="left">
 <br>
 </p>
