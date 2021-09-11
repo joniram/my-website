@@ -3,7 +3,7 @@ author:
   name: Jonathan R. A. Müller
   email: "jonathan.r.a.mueller@gmail.com"
 description: > # this means to ignore newlines until "show_excerpts:"
-  Quantum information, optics, semiconductors, and more.
+  Semiconductors, optics, quantum information, and more.
 
 show_excerpts: true # set to true to show excerpts on the homepage
 

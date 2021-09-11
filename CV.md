@@ -4,15 +4,39 @@ title: Curriculum vitae
 permalink: /cv/
 ---
 ---  
+## Professional Experience
+
+#### Toshiba Europe Ltd, Cambridge Research Laboratory (Oct 2020 - present)
+**Researcher** in the Quantum Information group (Quantum Devices)
+
+Investigation of solid-state lidar systems.
+
+#### Toshiba Europe Ltd, Cambridge Research Laboratory (Oct 2017 - Sep 2020)
+**PhD student** in the Quantum Information group, lead by Dr. Andrew Shields  
+
+Development of ultrafast quantum-dot-based LEDs to generate entangled light for quantum information applications. Devised and implemented complex measurement techniques in order to generate quantum light at gigahertz clock rates.
+
+#### University of Cambridge (Oct 2017 – Sep 2020)
+**Visitor/Collaborator** to the Semiconductor Physics Group, lead by Prof. David Ritchie
+
+Collaboration on the growth of semiconductor heterostructures and device fabrication.
+Designing and evaluating semiconductors for fabrication of electro-optical devices.
+Performing electron microscopy, optical lithography, etching and development, etc.
+
+#### Walther-Meißner-Institute for Low Temperature Research, Munich <br/>(Nov 2013 – Feb 2014)
+**Working student**, supporting the operation and maintenance of low temperature and microwave equipment for research on superconducting quantum bits.
+
+---
 ## Education
 #### Toshiba Europe, Cambridge Research Laboratory / University of Sheffield <br/>(Oct 2017 – present)
 **PhD student in Physics**  
-Quantum Information group, lead by Dr. Andrew Shields
+Quantum Information group lead by Dr. Andrew Shields,  
+academic supervisor Prof. Alexander Tartakovskii
 
 
 #### Technical University of Munich (Oct 2014 – Sep 2017)
 **MSc in Condensed Matter Physics** — Passed with distinction  
-Semiconductor Nanostructures and Quantum Systems group, lead by Prof. Dr. Jonathan Finley  
+Semiconductor Nanostructures and Quantum Systems group, lead by Prof. Jonathan Finley  
 Thesis: Light-Matter Interaction Beyond the Mollow Triplet (available on request)
 
 #### National Taiwan University (Sep 2015 – Jan 2016)
@@ -27,18 +51,6 @@ Thesis: [3D Cavities for Circuit Quantum Electrodynamics](https://www.wmi.badw.d
 
 #### University of Würzburg (Oct 2009 – Jul 2010)
 [Early Study Programme](https://ifm.mathematik.uni-wuerzburg.de/fruehstudium/) in Maths for gifted high school students
-
----  
-## Professional Experience
-#### University of Cambridge (Oct 2017 – present)
-**Visiting Scientist** to the Semiconductor Physics Group, lead by Prof. David Ritchie
-
-Collaboration on the growth of semiconductor heterostructures and device fabrication.
-Designing and evaluating semiconductors for fabrication of electro-optical devices.
-Performing electron microscopy, optical lithography, etching and development, etc.
-
-#### Walther-Meißner-Institute for Low Temperature Research, Munich <br/>(Nov 2013 – Feb 2014)
-**Working student**, supporting the operation and maintenance of low temperature and microwave equipment for research on superconducting quantum bits.
 
 ---
 ## Scholarships
