@@ -63,6 +63,11 @@ Chris&nbsp;Gustin, Lukas&nbsp;Hanschke, Katarina&nbsp;Boos, <strong>Jonathan&nbs
 
 ## Conference and Workshop Presentations
 
+‘Active Reset of a Quantum-Dot-LED for Rapid Entangled Photon Generation’ (talk),  
+**_SemiconNano 2021_** (moved online),
+Milan, Italy  
+(Aug 2021)
+
 ‘Active reset of an entangled-LED for superequilibrium entangled photon generation’ (talk),  
 **_International Conference on Solid State Devices and Materials (SSDM)_** (moved online),  
 Toyama, Japan  
