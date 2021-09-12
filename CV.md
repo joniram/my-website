@@ -30,8 +30,8 @@ Performing electron microscopy, optical lithography, etching and development, et
 ## Education
 #### Toshiba Europe, Cambridge Research Laboratory / University of Sheffield <br/>(Oct 2017 – present)
 **PhD student in Physics**  
-Quantum Information group lead by Dr. Andrew Shields,  
-academic supervisor Prof. Alexander Tartakovskii
+Quantum Information group, lead by Dr. Andrew Shields  
+Academic supervision by Prof. Alexander Tartakovskii
 
 
 #### Technical University of Munich (Oct 2014 – Sep 2017)
