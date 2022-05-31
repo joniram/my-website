@@ -9,7 +9,7 @@ permalink: /cv/
 #### Toshiba Europe Ltd, Cambridge Research Laboratory (Oct 2020 - present)
 **Researcher** in the Quantum Information group (Quantum Devices)
 
-Investigation of solid-state lidar systems.
+Investigation of solid-state lidar systems. Designed and implemented solid-state lidar transmitter designs using commercial foundry PDKs. Implemented our lidar test suite from scratch, and performed numerical modelling to simulate lidar performance.
 
 #### Toshiba Europe Ltd, Cambridge Research Laboratory (Oct 2017 - Sep 2020)
 **PhD student** in the Quantum Information group, lead by Dr. Andrew Shields  
@@ -59,11 +59,14 @@ International scholarship supporting talented researchers
 
 ---
 ## Volunteering
+#### Deutschhaus academic high school, Würzburg (Dec 2014 – present)
+Online mentor for the [annual science fair](https://www.deutschhaus.de/fachbereiche/naturwissenschaften/chemie/virtual-science-fair/). Supporting year 8 students with the execution and evaluation of a scientific experiment.
+
+#### Luminiferous Ltd, Bristol (remote) (May 2020 - Jul 2020)
+Machine learning consultant, implemented from scratch a machine learning model to predict fabrication defects in silicon photonic circuits
+
 #### The Royal Institution of Great Britain, London (Nov 2019)
 Conception and presentation of an interactive stand about 'Quantum Teleportation' for a [public outreach event](https://www.rigb.org/whats-on/events-2019/november/public-quantum-in-the-city)
 
 #### University of Würzburg (Feb 2019)
 Conception and presentation of an interactive stand about ['Classical Cryptography and Quantum Cryptography' for high school students](https://4photonblog.wordpress.com/2019/03/19/the-next-generation-organizing-an-outreach-event/)
-
-#### Deutschhaus academic high school, Würzburg (Dec 2014 – Feb 2019)
-Online mentor for the [annual science fair](https://www.deutschhaus.de/fachbereiche/naturwissenschaften/chemie/virtual-science-fair/). Supporting year 8 students with the execution and evaluation of a scientific experiment.
