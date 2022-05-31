@@ -9,22 +9,23 @@ permalink: /cv/
 #### Toshiba Europe Ltd, Cambridge Research Laboratory (Oct 2020 - present)
 **Researcher** in the Quantum Information group (Quantum Devices)
 
-Investigation of solid-state lidar systems. Designed and implemented solid-state lidar transmitter designs using commercial foundry PDKs. Implemented our lidar test suite from scratch, and performed numerical modelling to simulate lidar performance.
+Investigation of solid-state lidar systems. Devised and implemented photonic integrated circuit designs using commercial foundry PDKs. Established a lidar experimental test suite from scratch. Implemented and performed numerical modelling to simulate lidar performance.
 
 #### Toshiba Europe Ltd, Cambridge Research Laboratory (Oct 2017 - Sep 2020)
 **PhD student** in the Quantum Information group, lead by Dr. Andrew Shields  
 
-Development of ultrafast quantum-dot-based LEDs to generate entangled light for quantum information applications. Devised and implemented complex measurement techniques in order to generate quantum light at gigahertz clock rates.
+Development of ultrafast quantum-dot-based LEDs to generate entangled light for quantum information applications.
+Established complex measurement techniques in order to generate quantum light at world-record gigahertz clock rates.
 
 #### University of Cambridge (Oct 2017 – Sep 2020)
 **Visitor/Collaborator** to the Semiconductor Physics Group, lead by Prof. David Ritchie
 
 Collaboration on the growth of semiconductor heterostructures and device fabrication.
-Designing and evaluating semiconductors for fabrication of electro-optical devices.
-Performing electron microscopy, optical lithography, etching and development, etc.
+Designed and evaluated III-V semiconductors for fabrication of electro-optical devices.
+Performed electron microscopy, optical lithography, etching and development.
 
 #### Walther-Meißner-Institute for Low Temperature Research, Munich <br/>(Nov 2013 – Feb 2014)
-**Working student**, supporting the operation and maintenance of low temperature and microwave equipment for research on superconducting quantum bits.
+**Working student**, supported the operation and maintenance of low temperature and microwave equipment for research on superconducting quantum bits.
 
 ---
 ## Education
