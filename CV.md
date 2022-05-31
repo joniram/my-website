@@ -9,7 +9,7 @@ permalink: /cv/
 #### Toshiba Europe Ltd, Cambridge Research Laboratory (Oct 2020 - present)
 **Researcher** in the Quantum Information group (Quantum Devices)
 
-Investigation of solid-state lidar systems. Devised and implemented photonic integrated circuit designs using commercial foundry PDKs. Established a lidar experimental test suite from scratch. Implemented and performed numerical modelling to simulate lidar performance.
+Development of solid-state lidar systems. Devised and implemented photonic integrated circuit designs using commercial foundry PDKs. Established a lidar experimental test suite and implemented and performed numerical modelling to simulate lidar performance.
 
 #### Toshiba Europe Ltd, Cambridge Research Laboratory (Oct 2017 - Sep 2020)
 **PhD student** in the Quantum Information group, lead by Dr. Andrew Shields  
