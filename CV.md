@@ -29,10 +29,11 @@ Performed electron microscopy, optical lithography, etching and development.
 
 ---
 ## Education
-#### Toshiba Europe, Cambridge Research Laboratory / University of Sheffield <br/>(Oct 2017 – present)
-**PhD student in Physics**  
+#### Toshiba Europe, Cambridge Research Laboratory / University of Sheffield <br/>(Oct 2017 – Sep 2020)
+**PhD in Physics**  
 Quantum Information group, lead by Dr. Andrew Shields  
-Academic supervision by Prof. Alexander Tartakovskii
+Academic supervision by Prof. Alexander Tartakovskii  
+Graduation pending doctoral viva exam (date to be determined)
 
 
 #### Technical University of Munich (Oct 2014 – Sep 2017)
