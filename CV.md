@@ -33,7 +33,7 @@ Performed electron microscopy, optical lithography, etching and development.
 **PhD in Physics**  
 Quantum Information group, lead by Dr. Andrew Shields  
 Academic supervision by Prof. Alexander Tartakovskii  
-Graduation pending doctoral viva exam (date to be determined)
+Formal graduation expected by August 2022, pending doctoral viva exam (date to be determined)
 
 
 #### Technical University of Munich (Oct 2014 – Sep 2017)
@@ -49,7 +49,7 @@ Term Project: [The Conditional Capital Asset Pricing Model and the MDAX](https:/
 #### Technical University of Munich (Oct 2011 – Apr 2015)
 **BSc in Physics** — Passed with merit  
 Quantum  Information Processing group, lead by Prof. Dr. Rudolf	Gross  
-Thesis: [3D Cavities for Circuit Quantum Electrodynamics](https://www.wmi.badw.de/publications/theses/Mueller,Jonathan%20Bachelor%20Thesis%202014.pdf)
+Thesis: [3D Cavities for Circuit Quantum Electrodynamics](https://www.wmi.badw.de/fileadmin/WMI/Publications/Mueller%2CJonathan%20Bachelor%20Thesis%202014.pdf)
 
 #### University of Würzburg (Oct 2009 – Jul 2010)
 [Early Study Programme](https://ifm.mathematik.uni-wuerzburg.de/fruehstudium/) in Maths for gifted high school students
