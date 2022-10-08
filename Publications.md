@@ -19,7 +19,7 @@ permalink: /publications/
 <p class="nooverflow">
 Frank&nbsp;Deppe, Edwar&nbsp;Xie, Kirill&nbsp;G.&nbsp;Fedorov, Gustav&nbsp;Andersson, <strong>Jonathan&nbsp;Müller</strong>, Achim&nbsp;Marx, Rudolf&nbsp;Gross
 <br>
-<em>International Applied Computational Electromagnetics Society Symposium (ACES)</em> <strong></strong>, 4 (2021)
+<em>International Applied Computational Electromagnetics Society Symposium (ACES), 4 (2021)
 <br clear="left">
 <br>
 </p>
