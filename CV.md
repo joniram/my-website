@@ -11,11 +11,15 @@ permalink: /cv/
 
 Development of solid-state lidar systems. Devised and implemented photonic integrated circuit designs using commercial foundry PDKs. Established a lidar experimental test suite and implemented and performed numerical modelling to simulate lidar performance.
 
+Filed one UK patent application.
+
 #### Toshiba Europe Ltd, Cambridge Research Laboratory (Oct 2017 - Sep 2020)
 **PhD student** in the Quantum Information group, lead by Dr. Andrew Shields  
 
 Development of ultrafast quantum-dot-based LEDs to generate entangled light for quantum information applications.
 Established complex measurement techniques in order to generate quantum light at world-record gigahertz clock rates.
+
+Published two papers (one first author). Presented the results at 10+ internationl conferences and workshops.
 
 #### University of Cambridge (Oct 2017 – Sep 2020)
 **Visitor/Collaborator** to the Semiconductor Physics Group, lead by Prof. David Ritchie
@@ -23,6 +27,8 @@ Established complex measurement techniques in order to generate quantum light at
 Collaboration on the growth of semiconductor heterostructures and device fabrication.
 Designed and evaluated III-V semiconductors for fabrication of electro-optical devices.
 Performed electron microscopy, optical lithography, etching and development.
+
+Two joint journal publications.
 
 #### Walther-Meißner-Institute for Low Temperature Research, Munich <br/>(Nov 2013 – Feb 2014)
 **Working student**, supported the operation and maintenance of low temperature and microwave equipment for research on superconducting quantum bits.
