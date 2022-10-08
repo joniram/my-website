@@ -22,7 +22,7 @@ title: "About"
 I'm a researcher at the Cambridge Research Laboratory of Toshiba&nbsp;Europe, currently developing novel solid-state lidar sensors based on semiconductor lasers.
 </p>
 <p>
-I completed my PhD research back in 2020 and just recently defended my thesis.
+My PhD research was completed back in 2020.
 During my PhD I developed quantum-dot-based LEDs suitable for quantum information applications, in particular for quantum communication. I also hold an MSc and a BSc from TU Munich, focussing on semiconductor physics.
 </p>
 </div>
