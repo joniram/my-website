@@ -17,6 +17,7 @@ Filed one UK patent application.
 **PhD student** in the Quantum Information group, lead by Dr. Andrew Shields  
 
 Development of ultrafast quantum-dot-based LEDs to generate entangled light for quantum information applications.
+Simulated device performance to reveal novel operating modes of the LED.
 Established complex measurement techniques in order to generate quantum light at world-record gigahertz clock rates.
 
 Published two papers (one first author). Presented the results at 10+ internationl conferences and workshops.
@@ -66,11 +67,11 @@ Thesis: [3D Cavities for Circuit Quantum Electrodynamics](https://www.wmi.badw.d
 International scholarship supporting talented researchers
 
 ---
-## Volunteering
+## Extracurricular Activities
 #### Deutschhaus academic high school, Würzburg (Dec 2014 – present)
 Online mentor for the [annual science fair](https://www.deutschhaus.de/fachbereiche/naturwissenschaften/chemie/virtual-science-fair/). Supporting year 8 students with the execution and evaluation of a scientific experiment.
 
-#### Luminiferous Ltd, Bristol (remote) (May 2020 - Jul 2020)
+#### Luminiferous Ltd (now Wave Photonics Ltd), Bristol (remote) (May 2020 - Jul 2020)
 Machine learning consultant, implemented from scratch a machine learning model to predict fabrication defects in silicon photonic circuits
 
 #### The Royal Institution of Great Britain, London (Nov 2019)
