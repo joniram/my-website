@@ -6,6 +6,44 @@ permalink: /publications/
 
 [Google Scholar page](https://scholar.google.com/citations?user=OBSTfakAAAAJ)
 
+
+<div>
+<img src="/img/RF_antenna_key_image.png" align="left" alt="Portrait photo" style="margin: 20px 25px 25px 05px;width:130px;" />
+</div>
+<div>
+<h5 id="RF Antenna Design for 3D Quantum Memories">
+  <a href="https://ieeexplore.ieee.org/abstract/document/9528570">
+    <strong>RF Antenna Design for 3D Quantum Memories</strong>
+  </a>
+</h5>
+<p class="nooverflow">
+Frank&nbsp;Deppe, Edwar&nbsp;Xie, Kirill&nbsp;G.&nbsp;Fedorov, Gustav&nbsp;Andersson, <strong>Jonathan&nbsp;Müller</strong>, Achim&nbsp;Marx, Rudolf&nbsp;Gross
+<br>
+<em>International Applied Computational Electromagnetics Society Symposium (ACES)</em> <strong></strong>, 4 (2021)
+<br clear="left">
+<br>
+</p>
+</div>
+
+
+<div>
+<img src="/img/High_resolution_spectroscopy_key-image.png" align="left" alt="Portrait photo" style="margin: 20px 25px 25px 05px;width:130px;" />
+</div>
+<div>
+<h5 id="-high-resolution-spectroscopy-of-a-quantum-dot-driven-bichromatically-by-two-strong-fields-https-arxiv-org-abs-2006-15778-">
+  <a href="https://doi.org/10.1103/PhysRevResearch.3.013044">
+    <strong>High resolution spectroscopy of a quantum dot driven bichromatically by two strong fields</strong>
+  </a>
+</h5>
+<p class="nooverflow">
+Chris&nbsp;Gustin, Lukas&nbsp;Hanschke, Katarina&nbsp;Boos, <strong>Jonathan&nbsp;R.&nbsp;A.&nbsp;Müller</strong>, Malte&nbsp;Kremser, Jonathan&nbsp;J.&nbsp;Finley, Stephen&nbsp;Hughes, and Kai&nbsp;Müller<br>
+<em>Physical Review Research</em> <strong>3</strong>, 013044 (2021)
+<br clear="left">
+<br>
+</p>
+</div>
+
+
 <div>
 <img src="/img/Physical Review Research_2_043292_key-image.png" align="left" alt="Portrait photo" style="margin: 20px 20px 00px 00px;width:140px;" />
 </div>
@@ -43,22 +81,7 @@ Ginny&nbsp;Shooter, Ziheng&nbsp;Xiang, **Jonathan&nbsp;R.&nbsp;A.&nbsp;Müller**
 
 <!-- _Optics Express_ **28**, 24 (2020) -->
 
-<div>
-<img src="/img/High_resolution_spectroscopy_key-image.png" align="left" alt="Portrait photo" style="margin: 20px 25px 25px 05px;width:130px;" />
-</div>
-<div>
-<h5 id="-high-resolution-spectroscopy-of-a-quantum-dot-driven-bichromatically-by-two-strong-fields-https-arxiv-org-abs-2006-15778-">
-  <a href="https://doi.org/10.1103/PhysRevResearch.3.013044">
-    <strong>High resolution spectroscopy of a quantum dot driven bichromatically by two strong fields</strong>
-  </a>
-</h5>
-<p class="nooverflow">
-Chris&nbsp;Gustin, Lukas&nbsp;Hanschke, Katarina&nbsp;Boos, <strong>Jonathan&nbsp;R.&nbsp;A.&nbsp;Müller</strong>, Malte&nbsp;Kremser, Jonathan&nbsp;J.&nbsp;Finley, Stephen&nbsp;Hughes, and Kai&nbsp;Müller<br>
-<em>Physical Review Research</em> <strong>3</strong>, 013044 (2021)
-<br clear="left">
-<br>
-</p>
-</div>
+
 
 
 ## Conference and Workshop Presentations
