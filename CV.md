@@ -68,10 +68,8 @@ International scholarship supporting talented researchers
 
 ---
 ## Extracurricular Activities
-#### Deutschhaus academic high school, Würzburg (Dec 2014 – present)
-Online mentor for the [annual science fair](https://www.deutschhaus.de/fachbereiche/naturwissenschaften/chemie/virtual-science-fair/). Supporting year 8 students with the execution and evaluation of a scientific experiment.
 
-#### Luminiferous Ltd (now Wave Photonics Ltd), Bristol (remote) (May 2020 - Jul 2020)
+#### Luminiferous Ltd (now Wave Photonics Ltd), Bristol (remote, May 2020 - Jul 2020)
 Machine learning consultant, implemented from scratch a machine learning model to predict fabrication defects in silicon photonic circuits
 
 #### The Royal Institution of Great Britain, London (Nov 2019)
@@ -79,3 +77,6 @@ Conception and presentation of an interactive stand about 'Quantum Teleportation
 
 #### University of Würzburg (Feb 2019)
 Conception and presentation of an interactive stand about ['Classical Cryptography and Quantum Cryptography' for high school students](https://4photonblog.wordpress.com/2019/03/19/the-next-generation-organizing-an-outreach-event/)
+
+#### Deutschhaus academic high school, Würzburg (remote, Dec 2014 – present)
+Online mentor for the [annual science fair](https://www.deutschhaus.de/fachbereiche/naturwissenschaften/chemie/virtual-science-fair/). Supporting year 8 students with the execution and evaluation of a scientific experiment.
