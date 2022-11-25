@@ -91,7 +91,7 @@ Ginny&nbsp;Shooter, Ziheng&nbsp;Xiang, **Jonathan&nbsp;R.&nbsp;A.&nbsp;Müller**
 Milan, Italy  
 (Aug 2021)
 
-‘Active reset of an entangled-LED for superequilibrium entangled photon generation’ (talk),  
+[‘Active reset of an entangled-LED for superequilibrium entangled photon generation’ (talk)](https://confit.atlas.jp/guide/organizer/ssdm/ssdm2020/subject/H-8-03/detail),  
 **_International Conference on Solid State Devices and Materials (SSDM)_** (moved online),  
 Toyama, Japan  
 (Sep 2020)
