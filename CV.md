@@ -9,9 +9,9 @@ permalink: /cv/
 #### Toshiba Europe Ltd, Cambridge Research Laboratory (Oct 2020 - present)
 **Researcher** in the Quantum Information group (Quantum Devices)
 
-Development of solid-state lidar systems. Devised and implemented photonic integrated circuit designs using commercial foundry PDKs. Established a lidar experimental test suite and implemented and performed numerical modelling to simulate lidar performance.
+Development of solid-state lidar systems. Devised and implemented novel photonic integrated circuit designs using commercial foundry PDKs. Established a lidar experimental test suite and implemented and performed numerical modelling to simulate lidar performance.
 
-Filed one UK patent application.
+Supervising a PhD student in collaboration with the Semiconductor Physics Group at the University of Cambridge. Filed a UK patent application.
 
 #### Toshiba Europe Ltd, Cambridge Research Laboratory (Oct 2017 - Sep 2020)
 **PhD student** in the Quantum Information group, lead by Dr. Andrew Shields  
@@ -40,8 +40,7 @@ Two joint journal publications.
 **PhD in Physics**  
 Quantum Information group, lead by Dr. Andrew Shields  
 Academic supervision by Prof. Alexander Tartakovskii  
-Formal graduation expected by August 2022, pending doctoral viva exam (date to be determined)
-
+Thesis submitted in March 2022, formal graduation pending university proceedings.
 
 #### Technical University of Munich (Oct 2014 – Sep 2017)
 **MSc in Condensed Matter Physics** — Passed with distinction  
@@ -70,7 +69,7 @@ International scholarship supporting talented researchers
 ## Extracurricular Activities
 
 #### Luminiferous Ltd (now Wave Photonics Ltd), Bristol (remote, May 2020 - Jul 2020)
-Machine learning consultant, implemented from scratch a machine learning model to predict fabrication defects in silicon photonic circuits
+Individual contributor - machine learning, implemented from scratch a machine learning model to predict fabrication defects in silicon photonic circuits
 
 #### The Royal Institution of Great Britain, London (Nov 2019)
 Conception and presentation of an interactive stand about 'Quantum Teleportation' for a [public outreach event](https://www.rigb.org/whats-on/events-2019/november/public-quantum-in-the-city)
