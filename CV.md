@@ -11,7 +11,7 @@ permalink: /cv/
 
 Development of solid-state lidar systems. Devised and implemented novel photonic integrated circuit designs using commercial foundry PDKs. Established a lidar experimental test suite and implemented and performed numerical modelling to simulate lidar performance.
 
-Supervising a PhD student in collaboration with the Semiconductor Physics Group at the University of Cambridge. Filed a UK patent application.
+Filed a UK patent application. Supervising a PhD student in collaboration with the Semiconductor Physics Group at the University of Cambridge.
 
 #### Toshiba Europe Ltd, Cambridge Research Laboratory (Oct 2017 - Sep 2020)
 **PhD student** in the Quantum Information group, lead by Dr. Andrew Shields  
@@ -36,11 +36,11 @@ Two joint journal publications.
 
 ---
 ## Education
-#### Toshiba Europe, Cambridge Research Laboratory / University of Sheffield <br/>(Oct 2017 – Sep 2020)
+#### Toshiba Europe Ltd, Cambridge Research Laboratory / University of Sheffield <br/>(Oct 2017 – Sep 2020)
 **PhD in Physics**  
 Quantum Information group, lead by Dr. Andrew Shields  
 Academic supervision by Prof. Alexander Tartakovskii  
-Thesis submitted in March 2022, formal graduation pending university proceedings.
+Thesis: [High-bandwidth electrical generation of single and entangled photons (embargoed until 2024)](https://etheses.whiterose.ac.uk/32022/)
 
 #### Technical University of Munich (Oct 2014 – Sep 2017)
 **MSc in Condensed Matter Physics** — Passed with distinction  
@@ -49,7 +49,7 @@ Thesis: Light-Matter Interaction Beyond the Mollow Triplet (available on request
 
 #### National Taiwan University (Sep 2015 – Jan 2016)
 Semester abroad — GPA 4.12/4.3  
-Courses: Digital IC Engineering (A+), Investment Management (A+), Derivatives Trading (A), among others  
+Courses: Digital IC Engineering (A+), Investment Management (A+), Derivatives Trading (A), among others
 Term Project: [The Conditional Capital Asset Pricing Model and the MDAX](https://www.jramueller.com/files/JonathanMueller_Conditional_CAPM.pdf)
 
 #### Technical University of Munich (Oct 2011 – Apr 2015)
