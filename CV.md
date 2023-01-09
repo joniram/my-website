@@ -58,7 +58,7 @@ Quantum  Information Processing group, lead by Prof. Dr. Rudolf	Gross
 Thesis: [3D Cavities for Circuit Quantum Electrodynamics](https://www.wmi.badw.de/fileadmin/WMI/Publications/Mueller%2CJonathan%20Bachelor%20Thesis%202014.pdf)
 
 #### University of Würzburg (Oct 2009 – Jul 2010)
-[Early Study Programme](https://ifm.mathematik.uni-wuerzburg.de/fruehstudium/) in Maths for gifted high school students
+[Early Study Programme (Frühstudium)](https://www.uni-wuerzburg.de/studium/fruehstudium/startseite/) in Maths for gifted high school students
 
 ---
 ## Scholarships
