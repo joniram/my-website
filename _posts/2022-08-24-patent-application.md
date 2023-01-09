@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First patent application filed"
+title: "Patent pending"
 categories: misc
 excerpt_separator: <!--more-->
 ---
