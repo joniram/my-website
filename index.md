@@ -23,7 +23,7 @@ I'm a researcher at the Cambridge Research Laboratory of Toshiba&nbsp;Europe. I'
 </p>
 <p>
 My PhD research was completed back in 2020.
-During my PhD I developed quantum-dot-based LEDs suitable for quantum information applications, in particular for quantum communication. I also hold an MSc and a BSc from TU Munich, focussing on semiconductor physics and photonics.
+During my PhD I developed quantum-dot-based LEDs suitable for quantum information applications, in particular for quantum communication. I also hold an MSc and a BSc from TU Munich, focussing on semiconductor physics and optics.
 </p>
 </div>
 
