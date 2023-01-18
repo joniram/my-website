@@ -19,11 +19,11 @@ title: "About"
 <!-- # About -->
 <div>
 <p>
-I'm a researcher at the Cambridge Research Laboratory of Toshiba&nbsp;Europe. I'm passionate about cutting-edge technology in semiconductors, quantum information and machine intelligence. Currently developing novel solid-state lidar sensors based on semiconductor photonic integrated circuits.
+I'm a researcher at the Cambridge Research Laboratory of Toshiba&nbsp;Europe. I'm passionate about cutting-edge technology in semiconductors, photonics and machine intelligence. Currently developing novel solid-state lidar sensors based on semiconductor photonic integrated circuits.
 </p>
 <p>
 My PhD research was completed back in 2020.
-During my PhD I developed quantum-dot-based LEDs suitable for quantum information applications, in particular for quantum communication. I also hold an MSc and a BSc from TU Munich, focussing on semiconductor physics.
+During my PhD I developed quantum-dot-based LEDs suitable for quantum information applications, in particular for quantum communication. I also hold an MSc and a BSc from TU Munich, focussing on semiconductor physics and photonics.
 </p>
 </div>
 
