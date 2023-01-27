@@ -8,9 +8,27 @@
 layout: home
 title: "About"
 ---
-I'm a PhD student in the Cambridge Research Laboratory of Toshiba Europe. I also hold an MSc and a BSc from TU Munich. My research is focused on developing quantum dot based LEDs suitable for quantum information applications, in particular for quantum communication. 
+<div class="switch-order">
+<div>
+<img src="/img/portrait.png" align="right" alt="Portrait photo" style="margin: 20px 0px 20px 30px;width:200px;" />
+</div>
+<div>
+<h1>About</h1>
+</div>
+</div>
+<!-- # About -->
+<div>
+<p>
+I'm a researcher at the Cambridge Research Laboratory of Toshiba&nbsp;Europe. I'm passionate about cutting-edge technology in photonics, semiconductors, and machine intelligence. Currently developing novel solid-state lidar sensors based on hybrid semiconductor photonic integrated circuits.
+</p>
+<p>
+My PhD research was completed back in 2020.
+During my PhD I developed quantum-dot-based LEDs suitable for quantum information applications, in particular for quantum communication. I also hold an MSc and a BSc from TU Munich, focussing on semiconductor physics and optics.
+</p>
+</div>
 
-This is my personal website. The views expressed here are my own and not those of my employer.
+
+This is my personal website and the views expressed here are my own.
 
 <br/>
 <br/>

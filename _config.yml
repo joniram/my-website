@@ -1,9 +1,10 @@
 title: Jonathan R. A. Müller
 author:
   name: Jonathan R. A. Müller
-  email: "jonathan.r.a.mueller@gmail.com"
+  email: "mail@jramueller.com"
+  # email: "jonathan.r.a.mueller@gmail.com"
 description: > # this means to ignore newlines until "show_excerpts:"
-  Quantum information, optics, semiconductors, and more.
+  Semiconductors, optics, quantum information, and more.
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
@@ -23,7 +24,7 @@ minima:
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    linkedin: jonathan-müller
+    linkedin: jonathan-muller
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
