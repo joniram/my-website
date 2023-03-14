@@ -20,7 +20,7 @@ Development of ultrafast quantum-dot-based LEDs to generate entangled light for 
 Simulated device performance to reveal novel operating modes of the LED.
 Established complex measurement techniques in order to generate quantum light at world-record gigahertz clock rates.
 
-Published two papers (one first author). Presented the results at 10+ internationl conferences and workshops.
+Published two papers (one first author). Presented the results at 10+ international conferences and workshops.
 
 #### University of Cambridge (Oct 2017 – Sep 2020)
 **Visitor/Collaborator** to the Semiconductor Physics Group, lead by Prof. David Ritchie
