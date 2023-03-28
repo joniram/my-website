@@ -19,7 +19,7 @@ title: "About"
 <!-- # About -->
 <div>
 <p>
-I'm a researcher at the Cambridge Research Laboratory of Toshiba&nbsp;Europe. I'm passionate about cutting-edge technology in photonics, semiconductors, and machine intelligence. Currently developing novel solid-state lidar sensors based on hybrid semiconductor photonic integrated circuits.
+I'm a researcher at the Cambridge Research Laboratory of Toshiba&nbsp;Europe. I'm passionate about cutting-edge technology in semiconductors, photonics, and machine intelligence. Currently developing novel solid-state lidar sensors based on hybrid semiconductor photonic integrated circuits.
 </p>
 <p>
 My PhD research was completed back in 2020.
