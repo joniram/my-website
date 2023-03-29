@@ -23,7 +23,7 @@ Established complex measurement techniques in order to generate quantum light at
 Published two papers (one first author). Presented the results at 10+ international conferences and workshops.
 
 #### University of Cambridge (Oct 2017 – Sep 2020)
-**Visitor/Collaborator** to the Semiconductor Physics Group, lead by Prof. David Ritchie
+**Visitor/Collaborator**, Semiconductor Physics Group
 
 Collaboration on the growth of semiconductor heterostructures and device fabrication.
 Designed and evaluated III-V semiconductors for fabrication of electro-optical devices.
