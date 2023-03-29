@@ -7,14 +7,14 @@ permalink: /cv/
 ## Professional Experience
 
 #### Toshiba Europe Ltd, Cambridge Research Laboratory (Oct 2020 - present)
-**Researcher** in the Devices Group
+**Researcher**, Devices Group
 
 Development of solid-state lidar systems. Devised and implemented novel semiconductor photonic integrated circuit designs using commercial foundry PDKs. Established a lidar experimental test suite and implemented and performed numerical modelling to simulate lidar performance.
 
 Filed a UK patent application. Supervising a PhD student in collaboration with the Semiconductor Physics Group at the University of Cambridge.
 
 #### Toshiba Europe Ltd, Cambridge Research Laboratory (Oct 2017 - Sep 2020)
-**PhD student** in the Devices Group
+**PhD student**, Devices Group
 
 Development of ultrafast quantum-dot-based LEDs to generate entangled light for quantum information applications.
 Simulated device performance to reveal novel operating modes of the LED.
