@@ -8,7 +8,7 @@ permalink: /publications/
 
 
 <div>
-<img src="/img/RF_antenna_key_image.png" align="left" alt="Portrait photo" style="margin: 20px 25px 25px 05px;width:130px;" />
+<img src="/img/RF_antenna_key_image.png" align="left" alt="Portrait photo" style="margin: 30px 25px 25px 05px;width:130px;" />
 </div>
 <div>
 <h5 id="RF Antenna Design for 3D Quantum Memories">
@@ -27,7 +27,7 @@ Frank&nbsp;Deppe, Edwar&nbsp;Xie, Kirill&nbsp;G.&nbsp;Fedorov, Gustav&nbsp;Ander
 
 
 <div>
-<img src="/img/High_resolution_spectroscopy_key-image.png" align="left" alt="Portrait photo" style="margin: 20px 25px 25px 05px;width:130px;" />
+<img src="/img/High_resolution_spectroscopy_key-image.png" align="left" alt="Portrait photo" style="margin: 30px 25px 25px 05px;width:130px;" />
 </div>
 <div>
 <h5 id="-high-resolution-spectroscopy-of-a-quantum-dot-driven-bichromatically-by-two-strong-fields-https-arxiv-org-abs-2006-15778-">
@@ -45,7 +45,7 @@ Chris&nbsp;Gustin, Lukas&nbsp;Hanschke, Katarina&nbsp;Boos, <strong>Jonathan&nbs
 
 
 <div>
-<img src="/img/Physical Review Research_2_043292_key-image.png" align="left" alt="Portrait photo" style="margin: 20px 20px 00px 00px;width:140px;" />
+<img src="/img/Physical Review Research_2_043292_key-image.png" align="left" alt="Portrait photo" style="margin: 30px 20px 00px 00px;width:140px;" />
 </div>
 <div>
 <h5 id="-active-reset-of-a-radiative-cascade-for-entangled-photon-generation-beyond-the-continuous-driving-limit-https-doi-org-10-1103-physrevresearch-2-04329-"><a href="https://doi.org/10.1103/PhysRevResearch.2.043292"><strong>Active reset of a radiative cascade for entangled-photon generation beyond the continuous-driving limit</strong></a></h5>
@@ -63,7 +63,7 @@ Chris&nbsp;Gustin, Lukas&nbsp;Hanschke, Katarina&nbsp;Boos, <strong>Jonathan&nbs
 <!-- _Physical Review Research_ **2**, 043292 (2020) -->
 
 <div>
-<img src="/img/Optics_Express_28_24_key-image.jpg" align="left" alt="Portrait photo" style="margin: 20px 25px 25px 05px;width:130px;" />
+<img src="/img/Optics_Express_28_24_key-image.jpg" align="left" alt="Portrait photo" style="margin: 30px 25px 25px 05px;width:130px;" />
 </div>
 <div>
 <h5 id="-1ghz-clocked-distribution-of-electrically-generated-entangled-photon-pairs-https-doi-org-10-1364-oe-405466-"><a href="https://doi.org/10.1364/OE.405466"><strong>1GHz clocked distribution of electrically generated entangled photon pairs</strong></a></h5>
@@ -82,9 +82,9 @@ Ginny&nbsp;Shooter, Ziheng&nbsp;Xiang, **Jonathan&nbsp;R.&nbsp;A.&nbsp;Müller**
 <!-- _Optics Express_ **28**, 24 (2020) -->
 
 
-
-
-## Conference and Workshop Presentations
+<header class="post-header">
+  <h1 class="page-heading">Conference and Workshop Presentations</h1>
+</header>
 
 ‘Active Reset of a Quantum-Dot-LED for Rapid Entangled Photon Generation’ (talk),  
 **_SemiconNano 2021_** (moved online),
