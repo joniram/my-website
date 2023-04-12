@@ -86,7 +86,7 @@ Ginny&nbsp;Shooter, Ziheng&nbsp;Xiang, **Jonathan&nbsp;R.&nbsp;A.&nbsp;Müller**
   <h1 class="page-heading">Conference and Workshop Presentations</h1>
 </header>
 
-‘Active Reset of a Quantum-Dot-LED for Rapid Entangled Photon Generation’ (talk),  
+[‘Active Reset of a Quantum-Dot-LED for Rapid Entangled Photon Generation’ (talk)](https://semiconnano2021.mater.unimib.it/program),  
 **_SemiconNano 2021_** (moved online),
 Milan, Italy  
 (Aug 2021)

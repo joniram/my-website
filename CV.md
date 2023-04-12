@@ -20,7 +20,7 @@ permalink: /cv/
   <p style="text-align:left;">
   <b>Researcher</b>, Devices group
       <span style="float:right;">
-          Oct 2020 – Mar 2022
+          Oct 2020 – Mar 2023
       </span>
   </p>
 </div>
