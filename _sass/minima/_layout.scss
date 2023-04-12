@@ -347,6 +347,8 @@
  .cv-title {
    p {
      margin-bottom: $spacing-unit / 4;
+     display: flex;
+     justify-content: space-between;
    }
 
    h1, h2, h3, h4, h5, h6 {

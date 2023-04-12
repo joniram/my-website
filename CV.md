@@ -9,17 +9,19 @@ permalink: /cv/
 </div>
 <div class="cv-title" markdown=1>
 #### Toshiba Europe Ltd, Cambridge Research Laboratory
-  <p style="text-align:left;">
-  <b>Senior Research Scientist</b>, Devices group
-      <span style="float:right;">
+  <p><span>
+    <b>Senior Research Scientist</b>, Devices group
+  </span>
+      <span>
           Apr 2023 – present
       </span>
   </p>
 </div>
 <div class="cv-title">
-  <p style="text-align:left;">
+<p><span>
   <b>Researcher</b>, Devices group
-      <span style="float:right;">
+  </span>
+      <span>
           Oct 2020 – Mar 2023
       </span>
   </p>
@@ -32,9 +34,10 @@ Filed a UK patent application. Supervising a PhD student in collaboration with t
 <div class="cv-title" markdown=1>
 #### Toshiba Europe Ltd, Cambridge Research Laboratory
 <!-- **PhD student** in the Quantum Information group, lead by Dr. Andrew Shields   -->
-<p style="text-align:left;">
+<p><span>
 <b>PhD student</b>, Devices group
-    <span style="float:right;">
+</span>
+    <span>
         Oct 2017 – Sep 2020
     </span>
 </p>
@@ -49,9 +52,10 @@ Published two papers (one first author). Presented the results at 10+ internatio
 <div class="cv-title" markdown=1>
 #### University of Cambridge
 <!-- **Visitor/Collaborator** to the Semiconductor Physics Group, lead by Prof. David Ritchie -->
-<p style="text-align:left;">
+<p><span>
 <b>Visitor/Collaborator</b>, Semiconductor Physics group
-    <span style="float:right;">
+</span>
+    <span>
         Oct 2017 – Sep 2020
     </span>
 </p>
@@ -66,9 +70,10 @@ Two joint journal publications.
 <div class="cv-title" markdown=1>
 #### Walther-Meißner-Institute for Low Temperature Research, Munich
 <!-- **Working student**, Quantum Information Processing group -->
-<p style="text-align:left;">
+<p><span>
 <b>Working student</b>, Quantum Information Processing group
-    <span style="float:right;">
+</span>
+    <span>
         Nov 2013 – Feb 2014
     </span>
 </p>
@@ -84,9 +89,10 @@ Supported the operation and maintenance of low temperature and microwave equipme
 <div class="cv-title" markdown=1>
 #### Toshiba Europe Ltd, Cambridge Research Laboratory / University of Sheffield
 <!-- **PhD in Physics**   -->
-<p style="text-align:left;">
+<p><span>
 <b>PhD in Physics</b>
-    <span style="float:right;">
+</span>
+    <span>
         Oct 2017 – Sep 2020
     </span>
 </p>
@@ -99,9 +105,10 @@ Thesis: [High-bandwidth electrical generation of single and entangled photons (e
 <div class="cv-title" markdown=1>
 #### Technical University of Munich
 <!-- **MSc in Condensed Matter Physics** — Passed with distinction   -->
-<p style="text-align:left;">
+<p><span>
 <b>MSc in Condensed Matter Physics</b> — Passed with distinction  
-    <span style="float:right;">
+</span>
+    <span>
         Oct 2014 – Sep 2017
     </span>
 </p>
@@ -113,9 +120,10 @@ Thesis: Light-Matter Interaction Beyond the Mollow Triplet (available on request
 <div class="cv-title" markdown=1>
 #### National Taiwan University
 <!-- Semester abroad — GPA 4.12/4.3   -->
-<p style="text-align:left;">
+<p><span>
 Semester abroad — GPA 4.12/4.3  
-    <span style="float:right;">
+</span>
+    <span>
         Sep 2015 – Jan 2016
     </span>
 </p>
@@ -127,9 +135,10 @@ Term Project: [The Conditional Capital Asset Pricing Model and the MDAX](https:/
 <div class="cv-title" markdown=1>
 #### Technical University of Munich
 <!-- **BSc in Physics** — Passed with merit   -->
-<p style="text-align:left;">
+<p><span>
 <b>BSc in Physics</b> — Passed with merit  
-    <span style="float:right;">
+</span>
+    <span>
         Oct 2011 – Apr 2015
     </span>
 </p>
@@ -140,12 +149,16 @@ Thesis: [3D Cavities for Circuit Quantum Electrodynamics](https://www.wmi.badw.d
 
 <div class="cv-title" markdown=1>
 #### University of Würzburg
-<span style="float:right;">
+<p>
+<span markdown=1>
+[Early Study Programme (Frühstudium)](https://www.uni-wuerzburg.de/studium/fruehstudium/startseite/) in Maths for gifted high school students
+</span>
+<span>
     Oct 2009 – Jul 2010
 </span>
+</p>
 </div>
 
-[Early Study Programme (Frühstudium)](https://www.uni-wuerzburg.de/studium/fruehstudium/startseite/) in Maths for gifted high school students
 
 ---
 <div class="cv-header" markdown=1>
@@ -154,8 +167,10 @@ Thesis: [3D Cavities for Circuit Quantum Electrodynamics](https://www.wmi.badw.d
 
 <div class="cv-title" markdown=1>
 #### Marie Skłodowska-Curie Actions Scholarship, European Commision
+<span>
 International scholarship supporting talented researchers
-<span style="float:right;">
+</span>
+<span>
     Oct 2017 – Sep 2020
 </span>
 </div>
@@ -165,10 +180,11 @@ International scholarship supporting talented researchers
 ## Extracurricular Activities
 </div>
 
+
 <div class="cv-title" markdown=1>
 #### Luminiferous Ltd (now Wave Photonics Ltd), Bristol (remote, May 2020 - Jul 2020)
 </div>
-Individual contributor - machine learning, implemented from scratch a machine learning model to predict fabrication defects in silicon photonic circuits
+Visiting researcher - machine learning, implemented from scratch a machine learning model to predict fabrication defects in silicon photonic circuits
 
 <div class="cv-title" markdown=1>
 #### The Royal Institution of Great Britain, London (Nov 2019)
