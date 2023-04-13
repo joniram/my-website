@@ -349,6 +349,8 @@
      margin-bottom: $spacing-unit / 4;
      display: flex;
      justify-content: space-between;
+     flex-flow: row wrap;
+     column-gap: 20px;
    }
 
    h1, h2, h3, h4, h5, h6 {
