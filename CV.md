@@ -27,7 +27,7 @@ permalink: /cv/
   </p>
 </div>
 
-Development of solid-state lidar systems. Devised and implemented novel photonic integrated circuit designs using commercial foundry PDKs. Established a lidar experimental test suite and implemented and performed numerical modelling to simulate lidar performance.
+Development of solid-state lidar systems. Devised and implemented novel semiconductor photonic integrated circuit designs using commercial foundry PDKs. Established a lidar experimental test suite and implemented and performed numerical modelling to simulate lidar performance.
 
 Filed a UK patent application. Supervising a PhD student in collaboration with the Semiconductor Physics Group at the University of Cambridge.
 
