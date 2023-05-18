@@ -157,6 +157,10 @@ Here's a quick project, creating an interactive IV curve simulator. Move the sli
                 }]
             },
             options: {
+                animation: {
+                  duration: 500,
+                  easing: "easeOutQuint",
+                },
                 scales: {
                     x: {
                         type: "linear",
