@@ -226,7 +226,7 @@ Here's a quick project, creating an interactive IV curve simulator. Move the sli
 This is based on the [Shockley diode equation](https://en.wikipedia.org/wiki/Shockley_diode_equation)
 <p>
 \[ I_D = I_S \left(e^{\frac{V_D}{n V_T}} - 1 \right)   \]
-using the thermal voltage \(V_T = \frac{kT}{q} \), the Boltzmann constant \(k\) and the elementary charge \(q\).
+using the thermal voltage \(V_T = \frac{kT}{q} \), the Boltzmann constant \(k\), and the elementary charge \(q\).
 </p>
 
 <!--more-->
@@ -234,4 +234,4 @@ using the thermal voltage \(V_T = \frac{kT}{q} \), the Boltzmann constant \(k\) 
 Interactive plots are the first thing I google for whenever I'm exploring new physics equations. However, often it's hard to find anything! Hence, my first foray into making semiconductor physics more interactive, starting with a simple diode.
 
 This is the first time I've used Html5 and/or Javascript - however, I used the amazing powers of ChatGPT&nbsp;3.5.
-I started this yesterday, and in total this took me around 4 hours. Not too bad for a complete beginner. Initially ChatGPT suggested coding the entire plot from scratch using Html5. However, this got very buggy when either I or ChatGPT attempted to make adjustments to the plot. Hence I switched to Chart.js for the plotting engine, and voilà.
+I started this yesterday, and in total this took me around 4 hours. Not too bad for a complete beginner. Initially ChatGPT suggested coding the entire plot from scratch using Html5. However, this turned very buggy when either I or ChatGPT attempted to make adjustments to the plot. Hence, I switched to Chart.js for the plotting engine, and voilà.
