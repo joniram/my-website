@@ -28,6 +28,6 @@ During my PhD I developed quantum-dot-based LEDs suitable for quantum informatio
 </div>
 
 
-This is my personal website and the views expressed here are my own.
+This is my personal website and the views expressed here are my own. 
 <br/>
 <br/>
