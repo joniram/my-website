@@ -174,12 +174,12 @@ Here's a quick project, creating an interactive IV curve simulator. Move the sli
                         type: "linear",
                         ticks: {
                             callback: function(value, index, values) {
-                              return value.toExponential();
+                              return value * 1000;
                             },
                         },
                         title: {
                             display: true,
-                            text: "Diode current (A)",
+                            text: "Diode current (mA)",
                             rotation: 0,
                             position: "left",
                             font: {
