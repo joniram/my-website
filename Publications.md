@@ -100,7 +100,7 @@ Toyama, Japan
 **_3rd 4-Photon Workshop_** (moved online), Milan, Italy  
 (Jun 2020)
 
-‘Active reset of a radiative cascade for superequilibrium entangled photon generation’ (poster),  
+[‘Active reset of a radiative cascade for superequilibrium entangled photon generation’ (poster)](https://www.youtube.com/watch?v=bcpTaIBj7Cs),  
 **_Bristol Quantum Information Technologies Workshop_** (moved online), Bristol, UK  
 (Apr 2020)
 
