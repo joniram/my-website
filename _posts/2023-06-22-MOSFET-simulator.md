@@ -81,7 +81,7 @@ Move the sliders to interact!
     </div>
     <div class="slider-container2">
         <label class="slider-label2">Channel-Length modulation coeff. \(\lambda\) (1/V):</label>
-        <input type="range" id="channelLengthModulationSlider" min="0.01" max="0.2" step="0.01" value="0.11" class="slider">
+        <input type="range" id="channelLengthModulationSlider" min="0.00" max="0.2" step="0.01" value="0.11" class="slider">
         <span id="channelLengthModulationValue" class="slider-value">0.11</span>
     </div>
 
