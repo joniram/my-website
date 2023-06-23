@@ -417,7 +417,9 @@ Move the sliders to interact!
                 fill: false,
                 pointStyle: "circle", // Set point style to line
                 pointRadius: 0, // Set point radius to 0
-                pointHoverRadius: 15,
+                // pointHoverRadius: 15,
+                // hover: {mode: null},
+                // tooltip: {enabled: false},
             }
           ]
         },
@@ -494,7 +496,6 @@ Move the sliders to interact!
 <!--more-->
 
 <p>
-The grey-shaded area in the first figure marks the saturation region.
 The calculations follow those in Chapter 5 of Sedra and Smith, <i>Microelectronic Circuits</i> (2020).
 For the drain current (\(i_D\)) vs drain-source voltage (\(\nu_{DS}\)) curve of the first figure, we use:
 
@@ -503,14 +504,17 @@ For the drain current (\(i_D\)) vs drain-source voltage (\(\nu_{DS}\)) curve of 
   \,\frac{1}{2} \mu \,C_\mathrm{ox} \frac{W_\mathrm{eff}}{L_\mathrm{eff}} (\nu_{GS} - V_t)^2 \,[1 + \lambda (\nu_{DS} - \nu_{GS} + V_t)] &\mbox{for }\quad \nu_{DS} \geq \nu_{GS} - V_t
   \end{cases}
   \]
-where \(C_\mathrm{ox}\) is the oxide capacitance \(C_\mathrm{ox} = \frac {\epsilon_\mathrm{ox}}{t_\mathrm{ox}} \) and \( \epsilon_\mathrm{ox} \) is the permittivity of silicon dioxide.
-The default parameters on the sliders above are those listed in the book for a standard 180nm CMOS process.
+with the oxide capacitance \(C_\mathrm{ox} = \frac {\epsilon_\mathrm{ox}}{t_\mathrm{ox}} \) and the permittivity of silicon dioxide \( \epsilon_\mathrm{ox} \).
+The default parameters on the sliders above are those listed in Sedra and Smith for a standard 180nm CMOS process. The grey-shaded area in the figure 1 marks the saturation region.
+
 </p>
 
 <p>
 Consequently, to compute the drain current \(i_{D}\) at saturation (\(\nu_{DS} = \nu_{GS} - V_t\)) in the second figure we use
 \[ i_{D} = \frac{1}{2} \mu \,C_\mathrm{ox} \frac{W_\mathrm{eff}}{L_\mathrm{eff}} (\nu_{GS} - V_t)^2 \,. \]
 </p>
-The blue marker in figure 2 marks the gate-source voltage chosen on the slider.
+<p>
+The blue marker in figure 2 marks the gate-source voltage \(\nu_{GS}\) chosen on the slider.
+</p>
 
 Feel free to email me if you have any feedback on this!
