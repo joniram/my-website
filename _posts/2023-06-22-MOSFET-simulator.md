@@ -5,8 +5,8 @@ categories: misc
 excerpt_separator: <!--more-->
 ---
 
-Below are interactive MOSFET (NMOS) current-voltage characteristic curves.
-These are based on the Shichman-Hodges model, (also known as square-law model or LTspice level 1 model),
+Here's another quick project: Below are interactive n-channel MOSFET current-voltage characteristic curves.
+These are based on the Shichman-Hodges model, (also known as square-law model or SPICE level 1 model),
 although the body effect isn't included here yet.
 
 Move the sliders to interact!
@@ -89,7 +89,7 @@ Move the sliders to interact!
 
     <script>
         // Simulation parameters
-        var numPoints = 200;
+        var numPoints = 100;
 
         // MOSFET parameters
         var gateSourceVoltage = 1; // Gate-Source voltage (V)
@@ -475,4 +475,8 @@ Move the sliders to interact!
     </script>
 </body>
 <br>
-The calculations are based on Chapter 5 in Sedra and Smith, *Microelectronic Circuits* (2020). The grey-shaded area in the left-hand plot marks the saturation region.
+The calculation follow those in Chapter 5 of Sedra and Smith, *Microelectronic Circuits* (2020). The grey-shaded area in the left-hand plot marks the saturation region.
+
+<!--more-->
+
+Feel free to email me if you have any feedback on this!
