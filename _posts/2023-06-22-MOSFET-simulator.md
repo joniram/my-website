@@ -17,7 +17,7 @@ Move the sliders to interact!
         // width: 40%; /* Adjust the width to 66% */
         margin: 20px auto; /* Center the chart container */
         width: 49%;
-        min-width: 250px;
+        min-width: 300px;
         display: inline-block;
         // text-align:center;
     }
@@ -60,17 +60,17 @@ Move the sliders to interact!
         <span id="thresholdVoltageValue" class="slider-value">0.5</span>
     </div>
     <div class="slider-container2">
-        <label class="slider-label2">Channel Length \(L\) (nm):</label>
+        <label class="slider-label2">eff. Channel Length \(L_\mathrm{eff}\) (nm):</label>
         <input type="range" id="channelLengthSlider" min="100" max="5000" step="10" value="180" class="slider">
         <span id="channelLengthValue" class="slider-value">180</span>
     </div>
     <div class="slider-container2">
-        <label class="slider-label2">Channel Width \(W\) (nm):</label>
+        <label class="slider-label2">eff. Channel Width \(W_\mathrm{eff}\) (nm):</label>
         <input type="range" id="channelWidthSlider" min="100" max="15000" step="10" value="220" class="slider">
         <span id="channelWidthValue" class="slider-value">220</span>
     </div>
     <div class="slider-container2">
-        <label class="slider-label2">Oxide Thickness \(t_{ox}\) (nm):</label>
+        <label class="slider-label2">Oxide Thickness \(t_\mathrm{ox}\) (nm):</label>
         <input type="range" id="oxideThicknessSlider" min="1" max="100" step="0.1" value="4.1" class="slider">
         <span id="oxideThicknessValue" class="slider-value">4.1</span>
     </div>
@@ -79,6 +79,12 @@ Move the sliders to interact!
         <input type="range" id="mobilitySlider" min="100" max="1000" step="10" value="290" class="slider">
         <span id="mobilityValue" class="slider-value">290</span>
     </div>
+    <div class="slider-container2">
+        <label class="slider-label2">Channel-Length modulation coeff. \(\lambda\) (1/V):</label>
+        <input type="range" id="channelLengthModulationSlider" min="0.01" max="0.2" step="0.01" value="0.11" class="slider">
+        <span id="channelLengthModulationValue" class="slider-value">0.11</span>
+    </div>
+
 
     <script src="https://cdn.jsdelivr.net/npm/chart.js@3.5.1"></script>
     <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom@1.1.1"></script>
@@ -98,6 +104,7 @@ Move the sliders to interact!
         var channelWidth = 220; // Channel width (μm)
         var oxideThickness = 4.1; // Oxide thickness (μm)
         var mobility = 290; // Mobility (cm²/Vs)
+        var channelLengthModulation = 0.11; // Channel-Length Modulation Coefficient (1/V)
 
         // Constants
         var permittivity = 3.45 * 1e-11 // F/m
@@ -145,7 +152,7 @@ Move the sliders to interact!
                     ;
               } else {
                 var drainCurrent = 0.5 * transconductance *
-                    Math.pow(overdriveVoltage, 2)
+                    Math.pow(overdriveVoltage, 2) * (1 + channelLengthModulation * (drainSourceVoltage - overdriveVoltage))
               }
             }
             return drainCurrent;
@@ -259,6 +266,11 @@ Move the sliders to interact!
             mobility = parseFloat(mobilitySlider.value);
             mobilityValue.textContent = mobility;
 
+            var channelLengthModulationSlider = document.getElementById("channelLengthModulationSlider");
+            var channelLengthModulationValue = document.getElementById("channelLengthModulationValue");
+            channelLengthModulation = parseFloat(channelLengthModulationSlider.value);
+            channelLengthModulationValue.textContent = channelLengthModulation;
+
             // Update the chart
             renderMosfetIVCurve();
             renderMosfetIVCurve2();
@@ -282,6 +294,9 @@ Move the sliders to interact!
 
         var mobilitySlider = document.getElementById("mobilitySlider");
         mobilitySlider.addEventListener("input", updateThresholdVoltageValue);
+
+        var channelLengthModulationSlider = document.getElementById("channelLengthModulationSlider");
+        channelLengthModulationSlider.addEventListener("input", updateThresholdVoltageValue);
 
         // Initialize the chart
         var canvas = document.getElementById("mosfetCanvas");
