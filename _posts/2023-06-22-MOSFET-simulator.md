@@ -475,8 +475,9 @@ Move the sliders to interact!
     </script>
 </body>
 <br>
-The calculation follow those in Chapter 5 of Sedra and Smith, *Microelectronic Circuits* (2020). The grey-shaded area in the left-hand plot marks the saturation region.
 
 <!--more-->
+
+The calculations follow those in Chapter 5 of Sedra and Smith, *Microelectronic Circuits* (2020). The grey-shaded area in the left-hand plot marks the saturation region.
 
 Feel free to email me if you have any feedback on this!
