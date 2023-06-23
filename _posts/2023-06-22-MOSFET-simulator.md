@@ -7,7 +7,7 @@ excerpt_separator: <!--more-->
 
 Here's another quick project: Below are interactive current-voltage characteristic curves for an n-channel MOSFET.
 These are based on the Shichman-Hodges model, (also known as square-law model or SPICE level 1 model),
-although the body effect isn't included here yet.
+although without body effect.
 
 Move the sliders to interact!
 
@@ -50,7 +50,7 @@ Move the sliders to interact!
     </div>
 
     <div class="slider-container2">
-        <label class="slider-label2">Gate-Source Voltage \(\nu_{DS}\) (V):</label>
+        <label class="slider-label2">Gate-Source Voltage \(\nu_{GS}\) (V):</label>
         <input type="range" id="gateSourceVoltageSlider" min="0" max="2" step="0.05" value="1" class="slider">
         <span id="gateSourceVoltageValue" class="slider-value">1</span>
     </div>
@@ -493,6 +493,24 @@ Move the sliders to interact!
 
 <!--more-->
 
-The calculations follow those in Chapter 5 of Sedra and Smith, *Microelectronic Circuits* (2020). The grey-shaded area in the left-hand plot marks the saturation region.
+<p>
+The grey-shaded area in the first figure marks the saturation region.
+The calculations follow those in Chapter 5 of Sedra and Smith, <i>Microelectronic Circuits</i> (2020).
+For the drain current (\(i_D\)) vs drain-source voltage (\(\nu_{DS}\)) curve of the first figure, we use:
+
+\[ i_D = \,\begin{cases}
+  \,\mu \,C_\mathrm{ox} \frac{W_\mathrm{eff}}{L_\mathrm{eff}} \left[ (\nu_{GS} - V_t)\,\nu_{DS} - \frac{1}{2}\nu_{DS}^2 \right] &\mbox{for }\quad \nu_{DS} < \nu_{GS} - V_t \\[13pt]
+  \,\frac{1}{2} \mu \,C_\mathrm{ox} \frac{W_\mathrm{eff}}{L_\mathrm{eff}} (\nu_{GS} - V_t)^2 \,[1 + \lambda (\nu_{DS} - \nu_{GS} + V_t)] &\mbox{for }\quad \nu_{DS} \geq \nu_{GS} - V_t
+  \end{cases}
+  \]
+where \(C_\mathrm{ox}\) is the oxide capacitance \(C_\mathrm{ox} = \frac {\epsilon_\mathrm{ox}}{t_\mathrm{ox}} \) and \( \epsilon_\mathrm{ox} \) is the permittivity of silicon dioxide.
+The default parameters on the sliders above are those listed in the book for a standard 180nm CMOS process.
+</p>
+
+<p>
+Consequently, to compute the drain current \(i_{D}\) at saturation (\(\nu_{DS} = \nu_{GS} - V_t\)) in the second figure we use
+\[ i_{D} = \frac{1}{2} \mu \,C_\mathrm{ox} \frac{W_\mathrm{eff}}{L_\mathrm{eff}} (\nu_{GS} - V_t)^2 \,. \]
+</p>
+The blue marker in figure 2 marks the gate-source voltage chosen on the slider.
 
 Feel free to email me if you have any feedback on this!
