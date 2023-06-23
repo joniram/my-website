@@ -4,11 +4,11 @@ author:
   email: "contact@jramueller.com"
   # email: "jonathan.r.a.mueller@gmail.com"
 description: > # this means to ignore newlines until "show_excerpts:"
-  Semiconductors, optics, quantum information, and more.
+  Semiconductors, photonics, quantum information, and more.
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
-google_analytics: G-V8Y2LXLKYD
+# google_analytics: G-V8Y2LXLKYD
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
