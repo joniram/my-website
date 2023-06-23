@@ -20,12 +20,12 @@ Move the sliders to interact!
         display: inline-block;
     }
 
-    .slider-container {
+    .slider-container2 {
       margin-top: 20px;
       text-align: center; /* Center align the slider div */
     }
 
-    .slider-label {
+    .slider-label2 {
       display: inline-block;
       width: 220px;
       text-align: right; /* Right-align the slider labels */
@@ -47,33 +47,33 @@ Move the sliders to interact!
         <canvas id="mosfetCanvas2" width="100" height="100"></canvas>
     </div>
 
-    <div class="slider-container">
-        <label class="slider-label">Gate-Source Voltage \(\nu_{DS}\) (V):</label>
-        <input type="range" id="gateSourceVoltageSlider" min="0" max="3" step="0.05" value="1" class="slider">
+    <div class="slider-container2">
+        <label class="slider-label2">Gate-Source Voltage \(\nu_{DS}\) (V):</label>
+        <input type="range" id="gateSourceVoltageSlider" min="0" max="2" step="0.05" value="1" class="slider">
         <span id="gateSourceVoltageValue" class="slider-value">1</span>
     </div>
-    <div class="slider-container">
-        <label class="slider-label">Threshold Voltage \(V_{t}\) (V):</label>
+    <div class="slider-container2">
+        <label class="slider-label2">Threshold Voltage \(V_{t}\) (V):</label>
         <input type="range" id="thresholdVoltageSlider" min="0.3" max="1" step="0.05" value="0.5" class="slider">
         <span id="thresholdVoltageValue" class="slider-value">0.5</span>
     </div>
-    <div class="slider-container">
-        <label class="slider-label">Channel Length \(L\) (nm):</label>
+    <div class="slider-container2">
+        <label class="slider-label2">Channel Length \(L\) (nm):</label>
         <input type="range" id="channelLengthSlider" min="100" max="5000" step="10" value="180" class="slider">
         <span id="channelLengthValue" class="slider-value">180</span>
     </div>
-    <div class="slider-container">
-        <label class="slider-label">Channel Width \(W\) (nm):</label>
+    <div class="slider-container2">
+        <label class="slider-label2">Channel Width \(W\) (nm):</label>
         <input type="range" id="channelWidthSlider" min="100" max="15000" step="10" value="220" class="slider">
         <span id="channelWidthValue" class="slider-value">220</span>
     </div>
-    <div class="slider-container">
-        <label class="slider-label">Oxide Thickness \(t_{ox}\) (nm):</label>
+    <div class="slider-container2">
+        <label class="slider-label2">Oxide Thickness \(t_{ox}\) (nm):</label>
         <input type="range" id="oxideThicknessSlider" min="1" max="100" step="0.1" value="4.1" class="slider">
         <span id="oxideThicknessValue" class="slider-value">4.1</span>
     </div>
-    <div class="slider-container">
-        <label class="slider-label">Mobility \(\mu\) (cm²/Vs):</label>
+    <div class="slider-container2">
+        <label class="slider-label2">Mobility \(\mu\) (cm²/Vs):</label>
         <input type="range" id="mobilitySlider" min="100" max="1000" step="10" value="290" class="slider">
         <span id="mobilityValue" class="slider-value">290</span>
     </div>
@@ -448,7 +448,7 @@ Move the sliders to interact!
               },
               title: {
                 display: true,
-                text: 'Drain Current vs Gate-Source Voltage',
+                text: 'Drain Current at Saturation',
                 font: {
                   size: 16,
                   family: 'Arial',
@@ -473,4 +473,4 @@ Move the sliders to interact!
     </script>
 </body>
 <br>
-The calculations are based on Chapter 5 in Sedra and Smith, *Microelectronic Circuits* (2020).
+The calculations are based on Chapter 5 in Sedra and Smith, *Microelectronic Circuits* (2020). The grey-shaded area in the left-hand plot marks the saturation region.
