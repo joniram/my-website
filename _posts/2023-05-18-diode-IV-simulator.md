@@ -62,7 +62,7 @@ Here's a quick project, creating an interactive IV curve simulator. Move the sli
 
     <script>
         // Simulation parameters
-        var numPoints = 200;
+        var numPoints = 100;
 
         // Diode characteristics
         var saturationCurrentExp = -12; // Slider value represents exponent
