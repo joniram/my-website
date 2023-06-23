@@ -17,7 +17,9 @@ Move the sliders to interact!
         // width: 40%; /* Adjust the width to 66% */
         margin: 20px auto; /* Center the chart container */
         width: 49%;
+        min-width: 250px;
         display: inline-block;
+        // text-align:center;
     }
 
     .slider-container2 {
@@ -41,10 +43,10 @@ Move the sliders to interact!
 </head>
 <body>
     <div id="chartContainer2">
-        <canvas id="mosfetCanvas" width="100" height="100"></canvas>
+        <canvas id="mosfetCanvas" width="200" height="200"></canvas>
     </div>
     <div id="chartContainer2">
-        <canvas id="mosfetCanvas2" width="100" height="100"></canvas>
+        <canvas id="mosfetCanvas2" width="200" height="200"></canvas>
     </div>
 
     <div class="slider-container2">
@@ -177,7 +179,7 @@ Move the sliders to interact!
             // Generate voltage data
             var voltages = [];
             for (var i = 0; i <= numPoints; i++) {
-                var voltage = i / numPoints * 10;
+                var voltage = i / numPoints * 2;
                 voltages.push(voltage);
             }
 
@@ -203,7 +205,7 @@ Move the sliders to interact!
             // Generate voltage data
             var voltages = [];
             for (var i = 0; i <= numPoints; i++) {
-                var voltage = i / numPoints * 10;
+                var voltage = i / numPoints * 2;
                 voltages.push(voltage);
             }
 
@@ -327,7 +329,7 @@ Move the sliders to interact!
                             size: 14
                           }
                       },
-                      max: 3, // Set maximum value for y-axis
+                      max: 2, // Set maximum value for y-axis
                       min: 0 // Set minimum value for y-axis
                   },
                   y: {
@@ -419,7 +421,7 @@ Move the sliders to interact!
                           size: 14
                         }
                     },
-                    max: 3, // Set maximum value for y-axis
+                    max: 2, // Set maximum value for y-axis
                     min: 0 // Set minimum value for y-axis
                 },
                 y: {
