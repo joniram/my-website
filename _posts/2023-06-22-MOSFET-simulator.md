@@ -5,9 +5,8 @@ categories: misc
 excerpt_separator: <!--more-->
 ---
 
-Here's another quick project: Below are interactive current-voltage characteristic curves for an n-channel MOSFET.
-These are based on the Shichman-Hodges model, (also known as square-law model or SPICE level 1 model),
-although without body effect.
+Here's another quick project: Below are interactive current-voltage characteristic curves for an n-channel [MOSFET](https://en.wikipedia.org/wiki/MOSFET).
+These are based on the Shichman-Hodges model, (also known as square-law model or SPICE level 1 model).
 
 Move the sliders to interact!
 
@@ -505,7 +504,8 @@ For the drain current (\(i_D\)) vs drain-source voltage (\(\nu_{DS}\)) curve of 
   \end{cases}
   \]
 with the oxide capacitance \(C_\mathrm{ox} = \frac {\epsilon_\mathrm{ox}}{t_\mathrm{ox}} \) and the permittivity of silicon dioxide \( \epsilon_\mathrm{ox} \).
-The default parameters on the sliders above are those listed in Sedra and Smith for a standard 180nm CMOS process. The grey-shaded area in the figure 1 marks the saturation region.
+The default parameters on the sliders above are those listed in Sedra and Smith for a standard 180nm CMOS process. The grey-shaded area in figure 1 marks the saturation region.
+This calculation doesn't include the body effect, so we assume zero bias between source and substrate body.
 
 </p>
 
