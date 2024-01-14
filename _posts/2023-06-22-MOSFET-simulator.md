@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 ---
 
 Here's another quick project: Below are interactive current-voltage characteristic curves for an n-channel [MOSFET](https://en.wikipedia.org/wiki/MOSFET).
-These are based on the Shichman-Hodges model, (also known as square-law model or SPICE level 1 model).
+These are based on the Shichman-Hodges model (also known as square-law model or SPICE level 1 model).
 
 Move the sliders to interact!
 

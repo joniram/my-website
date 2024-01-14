@@ -100,7 +100,7 @@ Supported the operation and maintenance of low temperature and microwave equipme
 
 Quantum Information group, lead by Dr. Andrew Shields  
 Academic supervision by Prof. Alexander Tartakovskii  
-Thesis: [High-bandwidth electrical generation of single and entangled photons (embargoed until 2024)](https://etheses.whiterose.ac.uk/32022/)
+Thesis: [High-bandwidth electrical generation of single and entangled photons](https://etheses.whiterose.ac.uk/32022/)
 
 <div class="cv-title" markdown=1>
 #### Technical University of Munich
