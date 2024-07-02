@@ -20,7 +20,7 @@ title: "About"
 <div>
 <p>
 I'm a computational imaging scientist at ZEISS SMT, investigating optical imaging techniques for next-generation semiconductor manufacturing.
-Previously I was a (senior) research scientist at the Cambridge Research Laboratory of Toshiba&nbsp;Europe, resarching integrated photonics. I'm passionate about cutting-edge technology in semiconductors, optics, and machine learning.
+Previously I was a (senior) research scientist at the Cambridge Research Laboratory of Toshiba&nbsp;Europe, researching integrated photonics. I'm passionate about cutting-edge technology in semiconductors, optics, and machine learning.
 </p>
 <p>
 During my PhD I developed quantum-dot-based LEDs suitable for quantum information applications, in particular for quantum communication. I also hold an MSc and a BSc from TU Munich, focussing on semiconductor physics and optics.
