@@ -4,16 +4,32 @@ title: Curriculum vitae
 permalink: /cv/
 ---
 ---  
+
+
+
 <div class="cv-header" markdown=1>
 ## Professional Experience
 </div>
+
+<div class="cv-title" markdown=1>
+#### ZEISS SMT GmbH, Oberkochen
+<!-- **PhD student** in the Quantum Information group, lead by Dr. Andrew Shields   -->
+<p><span>
+<b>Wissenschaftlicher Mitarbeiter</b>, Systemsimulation
+</span>
+    <span>
+        Apr 2024 – present
+    </span>
+</p>
+</div>
+
 <div class="cv-title" markdown=1>
 #### Toshiba Europe Ltd, Cambridge Research Laboratory
   <p><span>
     <b>Senior Research Scientist</b>, Devices group
   </span>
       <span>
-          Apr 2023 – present
+          Apr 2023 – Mar 2024
       </span>
   </p>
 </div>
@@ -27,9 +43,9 @@ permalink: /cv/
   </p>
 </div>
 
-Development of solid-state lidar systems. Devised and implemented novel semiconductor photonic integrated circuit designs using commercial foundry PDKs. Established a lidar experimental test suite and implemented and performed numerical modelling to simulate lidar performance.
+Development of solid-state lidar systems. Devised, simulated, and implemented novel semiconductor photonic integrated circuit designs using commercial foundry PDKs. 
 
-Filed a UK patent application. Supervising a PhD student in collaboration with the Semiconductor Physics Group at the University of Cambridge.
+Filed 5 patent applications. Supervising a PhD student in collaboration with the Semiconductor Physics Group at the University of Cambridge.
 
 <div class="cv-title" markdown=1>
 #### Toshiba Europe Ltd, Cambridge Research Laboratory
