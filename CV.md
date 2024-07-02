@@ -43,9 +43,9 @@ permalink: /cv/
   </p>
 </div>
 
-Development of solid-state lidar systems. Devised, simulated, and implemented novel semiconductor photonic integrated circuit designs using commercial foundry PDKs. 
+Development of solid-state lidar systems. Devised, simulated, and implemented novel semiconductor photonic integrated circuit designs using commercial foundry PDKs.
 
-Filed 5 patent applications. Supervising a PhD student in collaboration with the Semiconductor Physics Group at the University of Cambridge.
+Submitted 5 patent applications. Supervising a PhD student in collaboration with the Semiconductor Physics Group at the University of Cambridge.
 
 <div class="cv-title" markdown=1>
 #### Toshiba Europe Ltd, Cambridge Research Laboratory
